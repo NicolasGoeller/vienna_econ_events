@@ -17,7 +17,7 @@ jobs:
 
     - name: Run ICS Script
       run: |
-        chmod +x get-sources.sh
+        chmod +x get-ics.sh
         ./get-sources.sh
 
     - name: Set up Python
