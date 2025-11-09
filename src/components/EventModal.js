@@ -1,12 +1,11 @@
 import React from 'react';
 import { getSourceColor } from '../utils/colorUtils';
 import { formatDate, formatTime } from '../utils/dateUtils';
+import { downloadICS } from '../utils/icsGenerator';
 
 export default function EventModal({ event, onClose }) {
   const colors = getSourceColor(event.source);
 
-  // This is a bit of a hack to render the "cleaned" text as HTML
-  // In a production app, you would use a library like DOMPurify to prevent XSS attacks
   const createMarkup = (htmlString) => {
     return { __html: htmlString };
   };
@@ -20,9 +19,8 @@ export default function EventModal({ event, onClose }) {
         className="bg-white rounded-lg shadow-xl max-w-2xl w-full max-h-[90vh] overflow-hidden flex flex-col"
         onClick={(e) => e.stopPropagation()}
       >
-        <div
-          className={`p-6 border-l-8 ${colors.border} overflow-y-auto`}
-        >
+        <div className={`p-6 border-l-8 ${colors.border} overflow-y-auto`}>
+          {/* Header */}
           <div className="flex justify-between items-start mb-2">
             <h2 className="text-2xl font-bold text-gray-800 flex-1 pr-4">
               {event.summary}
@@ -40,11 +38,19 @@ export default function EventModal({ event, onClose }) {
               <h3 className="text-sm font-semibold text-gray-600 mb-1">
                 Source
               </h3>
-              <span
-                className={`inline-block px-3 py-1 ${colors.bg} ${colors.text} rounded-full text-sm`}
-              >
-                {event.source}
-              </span>
+              <div className="flex items-center gap-2">
+                <button
+                  onClick={() => downloadICS(event)}
+                  className="inline-block px-3 py-1 bg-blue-600 text-white hover:bg-blue-700 transition-colors rounded-full text-sm"
+                >
+                  Download ICS
+                </button>
+                <span
+                  className={`inline-block px-3 py-1 ${colors.bg} ${colors.text} rounded-full text-sm`}
+                >
+                  {event.source}
+                </span>
+              </div>
             </div>
 
             <div>

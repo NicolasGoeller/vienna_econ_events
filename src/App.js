@@ -308,7 +308,7 @@ export default function App() {
         <div className="bg-white rounded-lg shadow-lg p-4">
           {/* Header */}
           <div className="flex items-center justify-between mb-4">
-            <h1 className="text-xl md:text-3xl font-bold text-gray-800">Melbourne Econ Seminars</h1>
+            <h1 className="text-xl md:text-3xl font-bold text-gray-800">Melbourne Econ Events</h1>
           </div>
 
           {/* Controls */}
