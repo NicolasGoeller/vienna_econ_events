@@ -312,7 +312,6 @@ export default function App() {
           <div className="flex items-center justify-between mb-4">
             <h1 className="text-xl md:text-3xl font-bold text-gray-800">Melbourne Econ Events</h1>
           </div>
-
           {/* Tab Navigation */}
           <div className="flex gap-2 mb-6 border-b border-gray-200">
             <button
@@ -334,16 +333,6 @@ export default function App() {
               }`}
             >
               About
-            </button>
-            <button
-              onClick={() => setActiveTab('notifications')}
-              className={`px-4 py-2 font-medium transition-colors relative rounded-t-lg ${
-                activeTab === 'notifications'
-                  ? 'text-blue-600 border-b-2 border-blue-600'
-                  : 'text-gray-600 hover:text-gray-800 hover:bg-gray-100'
-              }`}
-            >
-              Email Notifications
             </button>
           </div>
 
@@ -418,12 +407,6 @@ export default function App() {
               <AboutSection type="about" />
             </div>
           )}
-
-          {activeTab === 'notifications' && (
-            <div className="py-4">
-              <AboutSection type="notifications" />
-            </div>
-          )}
         </div>
       </div>
 
@@ -437,6 +420,10 @@ export default function App() {
           }}
         />
       )}
+
+      <footer className="text-center p-6 text-xs text-gray-500">
+        <p>Event data is provided "as is". Please verify event details with the source institutions.</p>
+      </footer>
     </div>
   );
 }

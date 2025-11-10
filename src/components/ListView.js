@@ -1,24 +1,18 @@
 import React from 'react';
 import { getSourceColor } from '../utils/colorUtils';
 import { formatDate, formatTime } from '../utils/dateUtils';
-import { downloadICS, subscribeToCalendar, hasCalendarSubscription } from '../utils/icsGenerator';
+import { downloadICS } from '../utils/icsGenerator';
 
 function EventItem({ event, onEventClick }) {
   const colors = getSourceColor(event.source);
   const startTime = formatTime(event.start);
   const endTime = event.end ? formatTime(event.end) : null;
-  const canSubscribe = hasCalendarSubscription(event.source);
 
   const handleDownloadEventClick = (e) => {
     // This stops the click from "bubbling up" to the parent div.
     // Without this, clicking Download would ALSO trigger onEventClick.
     e.stopPropagation();
     downloadICS(event);
-  };
-
-  const handleSubscribeCalendarClick = (e) => {
-    e.stopPropagation();
-    subscribeToCalendar(event.source);
   };
 
   return (
@@ -59,15 +53,6 @@ function EventItem({ event, onEventClick }) {
           </span>
           {/* Buttons Row */}
           <div className="flex flex-row gap-1.5">
-            {/* Subscribe to Calendar Button - only show if subscription is available */}
-            {canSubscribe && (
-              <button
-                onClick={handleSubscribeCalendarClick}
-                className={`inline-block px-2.5 py-0.5 bg-green-400 text-white hover:bg-green-600 transition-colors rounded-full text-xs font-medium cursor-pointer whitespace-nowrap`}
-              >
-                Subscribe
-              </button>
-            )}
             {/* Event ICS Button */}
             <button
               onClick={handleDownloadEventClick}

@@ -44,53 +44,8 @@ export function downloadICS(event) {
 
 export function getCalendarURL(sourceName) {
   const source = DEFAULT_SOURCES.find(s => s.name === sourceName);
-  if (source && source.subscriptionUrl) {
-    // Return the original subscription URL (e.g., Google Calendar URL)
-    return source.subscriptionUrl;
+  if (source && source.sourceUrl) {
+    return source.sourceUrl;
   }
   return null;
-}
-
-export function hasCalendarSubscription(sourceName) {
-  const source = DEFAULT_SOURCES.find(s => s.name === sourceName);
-  return source && source.subscriptionUrl ? true : false;
-}
-
-export function subscribeToCalendar(sourceName) {
-  const url = getCalendarURL(sourceName);
-  if (url) {
-    // Try to copy the URL to clipboard
-    if (navigator.clipboard && navigator.clipboard.writeText) {
-      navigator.clipboard.writeText(url).then(() => {
-        alert(
-          `Calendar subscription URL copied to clipboard!\n\n` +
-          `To subscribe in your calendar app:\n` +
-          `• Google Calendar: Settings → Add calendar → From URL → Paste URL\n` +
-          `• Apple Calendar: File → New Calendar Subscription → Paste URL\n` +
-          `• Outlook: Add calendar → Subscribe from web → Paste URL\n\n` +
-          `URL: ${url}`
-        );
-      }).catch(() => {
-        // Fallback if clipboard fails
-        alert(
-          `Copy this URL to subscribe in your calendar app:\n\n${url}\n\n` +
-          `Instructions:\n` +
-          `• Google Calendar: Settings → Add calendar → From URL\n` +
-          `• Apple Calendar: File → New Calendar Subscription\n` +
-          `• Outlook: Add calendar → Subscribe from web`
-        );
-      });
-    } else {
-      // Fallback for browsers without clipboard API
-      alert(
-        `Copy this URL to subscribe in your calendar app:\n\n${url}\n\n` +
-        `Instructions:\n` +
-        `• Google Calendar: Settings → Add calendar → From URL\n` +
-        `• Apple Calendar: File → New Calendar Subscription\n` +
-        `• Outlook: Add calendar → Subscribe from web`
-      );
-    }
-  } else {
-    alert('Calendar subscription not available for this source.');
-  }
 }
