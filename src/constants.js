@@ -16,6 +16,10 @@ export const DEFAULT_SOURCES = [
     name: 'UniMelb Econ',
     url: './ics/unimelb-econ.ics'
   },
+  {
+    name: 'Workshops & Events',
+    url: './ics/custom-events.ics'
+  },
   // {
   //   name: 'UniMelb EE',
   //   url: './ics/unimelb-ebe.ics',

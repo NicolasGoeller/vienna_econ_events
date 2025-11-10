@@ -309,7 +309,15 @@ export default function App() {
           {/* Header */}
           <div className="flex items-center justify-between mb-4">
             <h1 className="text-xl md:text-3xl font-bold text-gray-800">Melbourne Econ Events</h1>
-          </div>
+         </div>
+          <div className="mb-4">
+            <p>
+              This website aims to collect Economics-related events in and near Melbourne (all broadly defined).
+              Please reach out to
+                <a href="mailto:nikolas.kuschnig@monash.edu" className="text-blue-600 hover:underline"> nikolas.kuschnig@monash.edu </a>
+              if you have a calendar (preferably a public ICS) or specific event to add.
+            </p>
+        </div>
 
           {/* Controls */}
           <Controls
@@ -374,6 +382,9 @@ export default function App() {
         </div>
 
         <footer className="text-center p-6 text-sm text-gray-500">
+          <p>
+            Thanks to the <a href="https://www.monash.edu/business/ebs/impact-and-engagement/conferences-seminars-and-events" className="text-blue-600 hover:underline">Monash EBS</a> and <a href="https://www.monash.edu/business/economics/impact-and-engagement/conferences-seminars-and-events" className="text-blue-600 hover:underline">Monash Econ</a> departments as well as the creator of the <a href="https://sites.google.com/view/melbournesummerinstitute/home" className="text-blue-600 hover:underline">Melbourne Summer Institute</a> for making this information available and accessible.
+          </p>
           <p>Event data is provided "as is".</p>
           <p>
             Contact:{' '}
