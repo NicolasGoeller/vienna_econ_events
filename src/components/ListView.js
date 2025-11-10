@@ -90,30 +90,41 @@ function WeekHeader({ label }) {
 
 // --- Main ListView Component ---
 export default function ListView({ groupedListEvents, onEventClick }) {
+  let lastMonth = null;
+  let lastWeek = null;
+
   return (
     <div className="space-y-2.5">
       {groupedListEvents.map((item, idx) => {
-        // Use the event's unique ID for the key if possible.
-        // This is crucial for performance and avoiding bugs.
-        // We fall back to index only as a last resort.
-        const key = item.data?.id || `item-${item.label}-${idx}`;
+        const key =
+          item.type === 'event'
+            ? item.data?.id || `event-${idx}`
+            : `${item.type}:${item.label}`; // stable key for headers
 
-        switch (item.type) {
-          case 'month':
-            return <MonthHeader key={key} label={item.label} />;
-          case 'week':
-            return <WeekHeader key={key} label={item.label} />;
-          case 'event':
-            return (
-              <EventItem
-                key={key}
-                event={item.data}
-                onEventClick={onEventClick}
-              />
-            );
-          default:
-            return null;
+        if (item.type === 'month') {
+          if (item.label === lastMonth) return null;
+          lastMonth = item.label;
+          lastWeek = null; // reset week when month changes
+          return <MonthHeader key={key} label={item.label} />;
         }
+
+        if (item.type === 'week') {
+          if (item.label === lastWeek) return null;
+          lastWeek = item.label;
+          return <WeekHeader key={key} label={item.label} />;
+        }
+
+        if (item.type === 'event') {
+          return (
+            <EventItem
+              key={key}
+              event={item.data}
+              onEventClick={onEventClick}
+            />
+          );
+        }
+
+        return null;
       })}
     </div>
   );
