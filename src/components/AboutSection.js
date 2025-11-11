@@ -64,7 +64,7 @@ export default function AboutSection({ type = 'full' }) {
             </div>
 
             <div>
-              The following sources are included <b>experimentally</b>:
+              The following sources are included <b>experimentally</b> as they currently need to be scraped:
               {renderList(experimentalSources)}
             </div>
 
@@ -93,12 +93,12 @@ export default function AboutSection({ type = 'full' }) {
                   Visit the repository to submit issues, pull requests, or browse the source code:
                 </p>
                 <a
-                  href="https://github.com/nk027/melb_econ-sem"
+                  href="https://github.com/nk027/melbourne_econ"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:underline text-sm font-medium"
                 >
-                  github.com/nk027/melb_econ-sem
+                  github.com/nk027/melbourne_econ
                 </a>
               </div>
             </div>
