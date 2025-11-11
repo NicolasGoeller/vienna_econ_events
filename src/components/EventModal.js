@@ -65,6 +65,11 @@ export default function EventModal({ event, onClose }) {
 
   const createMarkup = (htmlString) => ({ __html: htmlString });
 
+  const startTime = formatTime(event.start);
+  const endTime = event.end ? formatTime(event.end) : null;
+  const isAllDay = startTime === '00:00' && (!endTime || endTime === '00:00');
+  const displayTime = isAllDay ? 'All Day' : `${startTime}${endTime ? `–${endTime}` : ''}`;
+
   return (
     <div
       className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4"
@@ -120,8 +125,7 @@ export default function EventModal({ event, onClose }) {
               <div className="text-gray-800">
                 <div>📅 {formatDate(event.start)}</div>
                 <div>
-                  🕐 {formatTime(event.start)}
-                  {event.end && `–${formatTime(event.end)}`}
+                  🕐 {displayTime}
                 </div>
               </div>
             </div>

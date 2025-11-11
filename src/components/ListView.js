@@ -5,8 +5,11 @@ import { downloadICS } from '../utils/icsGenerator';
 
 function EventItem({ event, onEventClick }) {
   const colors = getSourceColor(event.source, true);
+
   const startTime = formatTime(event.start);
   const endTime = event.end ? formatTime(event.end) : null;
+  const isAllDay = startTime === '00:00' && (!endTime || endTime === '00:00');
+  const displayTime = isAllDay ? 'All Day' : `${startTime}${endTime ? `–${endTime}` : ''}`;
 
   const handleDownloadEventClick = (e) => {
     e.stopPropagation();
@@ -26,8 +29,7 @@ function EventItem({ event, onEventClick }) {
           <div className="mt-1.5 space-y-1 text-sm text-gray-600">
             <div className="flex flex-wrap items-center">
               <span className="whitespace-nowrap">
-                🕐 {startTime}
-                {endTime && `–${endTime}`}
+                🕐 {displayTime}
               </span>
               {event.location && (
                 <>
