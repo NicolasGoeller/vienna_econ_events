@@ -92,7 +92,12 @@ export const parseICS = (content, sourceName) => {
       currentEvent = { source: sourceName };
     } else if (trimmedLine === 'END:VEVENT' && currentEvent) {
       if (currentEvent.start && currentEvent.summary) {
-        events.push(currentEvent);
+        const twoYearsAgo = new Date();
+        twoYearsAgo.setFullYear(twoYearsAgo.getFullYear() - 2);
+
+        if (currentEvent.start >= twoYearsAgo) {
+          events.push(currentEvent);
+        }
       }
       currentEvent = null;
       inEvent = false;
