@@ -18,7 +18,7 @@ export default function FilterPanel({
   setCustomEndDate,
 }) {
   return (
-    <div className="mb-6 p-4 bg-gray-50 rounded-lg">
+    <div className="mb-4 p-4 bg-gray-50 rounded-lg">
       <div className="mb-2">
         <h3 className="text-sm font-semibold text-gray-700 mb-2">Sources</h3>
         <div className="flex flex-wrap gap-2">

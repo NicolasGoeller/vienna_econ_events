@@ -45,7 +45,7 @@ export default function Controls({
         <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" />
         <input
           type="text"
-          placeholder="Search events..."
+          placeholder="Search ..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
           className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
@@ -57,7 +57,7 @@ export default function Controls({
         className="flex cursor-pointer items-center gap-2 px-4 py-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300"
       >
         <Filter />
-        Filters
+        Filter
       </button>
     </div>
   );

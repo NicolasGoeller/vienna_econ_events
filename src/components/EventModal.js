@@ -22,7 +22,7 @@ export default function EventModal({ event, onClose }) {
         <div className={`p-6 border-l-8 ${colors.border} overflow-y-auto`}>
           {/* Header */}
           <div className="flex justify-between items-start mb-2">
-            <h2 className="text-2xl font-bold text-gray-800 flex-1 pr-4">
+            <h2 className="text-xl font-bold text-gray-800 flex-1 pr-4">
               {event.summary}
             </h2>
             <button
