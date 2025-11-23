@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WU Economics Research Seminar Calendar//
+BEGIN:VEVENT
+SUMMARY:Fabian Kindermann: Negotiating Parenthood: An Account of the Chang
+ ing Relationship between Women's Work and Fertility
+DTSTART;TZID=Europe/Vienna:20251015T163000
+DTEND;TZID=Europe/Vienna:20251015T180000
+DESCRIPTION:Speaker: Fabian Kindermann\nAffiliation: University of Regensb
+ urg\nTitle: Negotiating Parenthood: An Account of the Changing Relationshi
+ p between Women's Work and Fertility
+LOCATION:room D4.0.039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilka Gerhardts: Just another Pill? The Health Consequences of Labo
+ r Induction -- Evidence from Germany
+DTSTART;TZID=Europe/Vienna:20251105T163000
+DTEND;TZID=Europe/Vienna:20251105T180000
+DESCRIPTION:Speaker: Ilka Gerhardts\nAffiliation: LMU München\nTitle: Jus
+ t another Pill? The Health Consequences of Labor Induction -- Evidence fro
+ m Germany
+LOCATION:room D4.0.136
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kevin Remmy: Equilibrium Effects in Complementary Markets: Electri
+ c Vehicle Adoption and Electricity Pricing
+DTSTART;TZID=Europe/Vienna:20251119T163000
+DTEND;TZID=Europe/Vienna:20251119T180000
+DESCRIPTION:Speaker: Kevin Remmy\nAffiliation: University of Mannheim\nTit
+ le: Equilibrium Effects in Complementary Markets: Electric Vehicle Adoptio
+ n and Electricity Pricing
+LOCATION:room D4.0.039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maximilian Böck: Plucking the Phillips curve
+DTSTART;TZID=Europe/Vienna:20251203T163000
+DTEND;TZID=Europe/Vienna:20251203T180000
+DESCRIPTION:Speaker: Maximilian Böck\nAffiliation: FAU Erlangen-Nürnberg
+ \nTitle: Plucking the Phillips curve
+LOCATION:room D4.0.039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernhard Kasberger: An Equilibrium Model of the First-Price Auctio
+ n with Strategic Uncertainty: Theory and Empirics
+DTSTART;TZID=Europe/Vienna:20251210T163000
+DTEND;TZID=Europe/Vienna:20251210T180000
+DESCRIPTION:Speaker: Bernhard Kasberger\nAffiliation: JKU Linz & WIFO\nTit
+ le: An Equilibrium Model of the First-Price Auction with Strategic Uncerta
+ inty: Theory and Empirics
+LOCATION:room D4.0.127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kai Carstensen: To be announced
+DTSTART;TZID=Europe/Vienna:20260107T163000
+DTEND;TZID=Europe/Vienna:20260107T180000
+DESCRIPTION:Speaker: Kai Carstensen\nAffiliation: Christian-Albrechts-Univ
+ ersität Kiel & ifw Kiel\nTitle: To be announced
+LOCATION:room D4.0.133
+END:VEVENT
+END:VCALENDAR
