@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Applied Economics Seminar\, Luise EISFELD (University of Lausanne)
+DTSTART:20251118T121500Z
+DTEND:20251118T133000Z
+DTSTAMP:20251202T212449Z
+UID:6q9irthmnf6j0dfovr58ab64cj@google.com
+SEQUENCE:0
+CREATED:20250605T051218Z
+DESCRIPTION:<u>Title:</u> <span>Entry and Acquisitions in Software Markets
+ </span><br> <br><u>Abstract:</u> <span>How do acquisitions of young\, in
+ novative\, venture capital-funded firms (startups) affect incentives to en
+ ter a market? I construct a novel product-level dataset of enterprise soft
+ ware\, and apply text-as-data methods to identify competing firms. I docum
+ ent new empirical patterns on startup acquisitions in software\, including
+  who acquires whom\, and how these acquisitions relate to subsequent entry
+ . To interpret these patterns and to quantify the underlying mechanisms\, 
+ I build and estimate a dynamic modelof startup entry in the face of these 
+ acquisitions. In the model\, acquisitions influence returns to entry (1) b
+ y affecting market structure\, and (2) by creating an entry-for-buyout inc
+ entive for potential entrants. Using thee stimated model\, I simulate how 
+ entry would evolve under alternative merger policies. The simulations reve
+ al that\, if all startup acquisitions were blocked\, entry would decline b
+ y about 16% in the average market. By contrast\, blocking acquisitions of 
+ more mature startups by established incumbents would increase entry slight
+ ly. These results indicate that case-by-case merger reviewis best suited t
+ o sustain startup entry.</span>
+LAST-MODIFIED:20251111T094010Z
+LOCATION:OMDS Seminar Room
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applied Economics Seminar\, Giuseppe SORRENTI (University of Lausa
+ nne)
+DTSTART:20251202T121500Z
+DTEND:20251202T133000Z
+DTSTAMP:20251202T212449Z
+UID:5ie2eqsv0dm0vnq1j66sgne6l9@google.com
+SEQUENCE:1
+CREATED:20250605T050750Z
+DESCRIPTION:<span><u>Title:</u> </span><p><span>Talent is Everywhere\, Op
+ portunity is Not: Online Role Model Mentoring and Students'Aspirations</sp
+ an></p><p><span><u>Abstract:</u> </span>This paper examines the impact of
+  ORME\, a cost-effective and easily scalable online mentoring program for 
+ middle school students. By connecting students with successful role models
+  who share similar socio-economic backgrounds\, ORME aims to enhance stude
+ nts’ aspirations\, beliefs about the returns to education\, and ultimate
+ ly\, their educational outcomes. Through a randomized controlled trial inv
+ olving Five middle schools and over 600 students in Campania\, Italy\, we 
+ find that participation in ORME significantly improves students’ percept
+ ions of effort-related success\, increases the alignment between their asp
+ irations and expectations\, and enhances school effort. Additionally\, stu
+ dents in the treatment group are more likely to prefer and enroll in the a
+ cademically-oriented school tracks and perform better on standardized test
+ s\, particularly in language.</p>
+LAST-MODIFIED:20251118T063449Z
+LOCATION:OMDS Seminar Room
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applied Economics Seminar\, Ulrich Doraszelski (Wharton School\, U
+ niversity of Pennsylvania)
+DTSTART:20260303T121500Z
+DTEND:20260303T133000Z
+DTSTAMP:20251202T212449Z
+UID:7u3t19eog4plrab76n8e18qdic@google.com
+SEQUENCE:0
+CREATED:20251125T102936Z
+DESCRIPTION:<span><u>Title:</u> </span><p><span><u>Abstract:</u> </span>
+ </p>
+LAST-MODIFIED:20251125T103238Z
+LOCATION:OMDS Seminar Room
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applied Economics Seminar\, Julia MINK (University of Bonn)
+DTSTART:20251007T111500Z
+DTEND:20251007T123000Z
+DTSTAMP:20251202T212449Z
+UID:7grajji7rjgml2haqh0uasptkg@google.com
+SEQUENCE:2
+CREATED:20250605T050842Z
+DESCRIPTION:<span><u>Title:</u> </span><span>Climate Change Resilience th
+ rough Health Systems: TheRole of Healthcare Access in Shielding Children f
+ rom Drought-RelatedUndernutrition in sub-Saharan Africa</span><br><span><b
+ r><u>Abstract:</u> </span><span>Climate change is increasing the frequenc
+ y andseverity of droughts with particularly acute consequences for populat
+ ions insub-Saharan Africa. We investigate whether access to healthcare can
+  mitigate the nutritional impacts of drought on young children by assembli
+ ng a geospatial dataset that links Demographic and Health Surveys from 34 
+ countries (1986–2021) with high-resolution drought indices and modeled t
+ ravel times to health facilities. We focus on exposure during gestation an
+ d early childhood to estimate effects on height-for-age and weight-for-hei
+ ght. By exploring the moderating role of healthcare accessibility\, our st
+ udy contributes new evidence on health system strengthening as a climate r
+ esilience strategy.</span>
+LAST-MODIFIED:20250916T093918Z
+LOCATION:OMDS Seminar Room
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applied Economics Seminar\, Olivier De Groote (Toulouse School of 
+ Economics)
+DTSTART:20260317T121500Z
+DTEND:20260317T133000Z
+DTSTAMP:20251202T212449Z
+UID:6077m2829l0gbs8n4r5oj902rj@google.com
+SEQUENCE:0
+CREATED:20251125T103427Z
+DESCRIPTION:<span><u>Title:</u> </span><p><span><u>Abstract:</u> </span>
+ </p>
+LAST-MODIFIED:20251125T103632Z
+LOCATION:OMDS Seminar Room
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applied Economics Seminar\, Ulrich Wagner (University of Mannheim)
+DTSTART:20251111T121500Z
+DTEND:20251111T133000Z
+DTSTAMP:20251202T212449Z
+UID:4g66orehorgltu5031v957aag1@google.com
+SEQUENCE:0
+CREATED:20250911T063357Z
+DESCRIPTION:<u>Title:</u> No Place Like Home: Charging Infrastructure and
+  the Environmental Advantage of Plug-in Hybrid Electric Vehicles<br> <br>
+ <u>Abstract:</u> Many European companies face the challenge of lowering C
+ O2 emissions from their company car fleets. A promising lever is to increa
+ se the notoriously low electric usage of Plug-in Hybrid Electric Vehicles 
+ (PHEVs). This paper examines whether home charging infrastructure can help
+  achieve these goals. We leverage quasi-experimental variation in the deli
+ very and installation of home chargers to quantify the impact of this tech
+ nology on energy use and CO2 emissions of PHEV company cars held by 856 em
+ ployees of a large German company. Since fuel and electricity expenditures
+  for these cars are covered by the employer\, home charging mainly changes
+  the non-monetary costs to an employee. We find that access to home chargi
+ ng increases electricity consumption by 317.9 ((±23.3) kWh per quarter an
+ d decreases fuel consumption by 97.97 ((±36.5) liters\, reducing CO2 emis
+ sions by 38%. Moreover\, access to home charging increases the employee's 
+ propensity to choose a  Battery Electric Vehicle (BEV) upon renewal of th
+ e lease by 28.4 ((±25.6) percentage points. We use these estimates to com
+ pute the private levelized abatement costs of home chargers for a range of
+  scenarios characterizing the diffusion of BEVs and the effect of the prog
+ ram on vehicle choice. With current tax-inclusive energy prices\, home cha
+ rgers break even for the company within eight to 16 years.
+LAST-MODIFIED:20250929T045604Z
+LOCATION:OMDS Seminar Room
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applied Economics Seminar\, Charlotte DE CANNIERE (Toulouse School
+  of Economics)
+DTSTART:20251021T111500Z
+DTEND:20251021T123000Z
+DTSTAMP:20251202T212449Z
+UID:34qb711rq7flv1jb8rk1v013es@google.com
+SEQUENCE:0
+CREATED:20250605T050550Z
+DESCRIPTION:<span><u>Title:</u> </span><span>Pump it? Market Power and th
+ e Energy Transition in the Global Oil Market</span><br><span><br><u>Abstra
+ ct:</u> </span>This paper explores the interaction between market power a
+ nd the energy transition in the global upstream oil industry. To align wit
+ h the Paris Agreement’s global warming target\, a significant portion of
+  world oil reserves needs to remain untapped. At the same time\, the OPEC 
+ cartel in the global crude oil market exercises market power by strategica
+ lly slowing down production to inflate prices. Using detailed micro-level 
+ data on global oil production\, costs and reserves\, I build and estimate 
+ a dynamic structural model of global oil production in a cartel-fringe set
+ ting. The model captures the trade-off faced by the cartel between exercis
+ ing market power by slowing production and avoiding future devaluation of 
+ oil by accelerating production. My findings reveal that (i) OPEC exerted m
+ arket power during the 1990 - 2019 period\, although the cartel only partl
+ y exploited the full potential gains\; (ii) increasing carbon taxes can ac
+ celerate production and emissions—a green paradox—causing a reallocati
+ on of production under imperfect competition\; (iii) well-designed carbon 
+ taxes can significantly erode market power incentives.
+LAST-MODIFIED:20251009T130301Z
+LOCATION:OMDS Seminar Room
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applied Economics Seminar\, Edwin Leuven (University of Oslo)
+DTSTART:20260414T111500Z
+DTEND:20260414T123000Z
+DTSTAMP:20251202T212449Z
+UID:0pj83nu8t0jc8vhq708pf16nlm@google.com
+SEQUENCE:0
+CREATED:20251125T103457Z
+DESCRIPTION:<span><u>Title:</u> </span><p><span><u>Abstract:</u> </span>
+ </p>
+LAST-MODIFIED:20251125T103749Z
+LOCATION:OMDS Seminar Room
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applied Economics Seminar\, Imke Reimers (Cornell University)
+DTSTART:20260602T111500Z
+DTEND:20260602T123000Z
+DTSTAMP:20251202T212449Z
+UID:20kojtcakma99lob5m0bg3c70h@google.com
+SEQUENCE:0
+CREATED:20251125T104115Z
+DESCRIPTION:<span><u>Title:</u> </span><p><span><u>Abstract:</u> </span>
+ </p>
+LAST-MODIFIED:20251125T104213Z
+LOCATION:OMDS Seminar Room
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applied Economics Seminar\, Milan Quentel (Universidad Carlos III 
+ de Madrid)
+DTSTART:20260512T111500Z
+DTEND:20260512T123000Z
+DTSTAMP:20251202T212449Z
+UID:0pmvrqdmuomsqg4e9n5aqsqkqt@google.com
+SEQUENCE:0
+CREATED:20251125T103939Z
+DESCRIPTION:<span><u>Title:</u> </span><p><span><u>Abstract:</u> </span>
+ </p>
+LAST-MODIFIED:20251125T104052Z
+LOCATION:OMDS Seminar Room
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applied Economics Seminar\, Ana VARELA VARELA (London School of Ec
+ onomics)
+DTSTART:20251216T121500Z
+DTEND:20251216T133000Z
+DTSTAMP:20251202T212449Z
+UID:44p82qamoo074d7atsnulgs16r@google.com
+SEQUENCE:0
+CREATED:20250814T111222Z
+DESCRIPTION:<u>Title:</u> <span>Flooding in Informal Settlements Evidence
+  from Kibera</span><br><br><u>Abstract:</u> <span>Informal settlements fo
+ rm in the margins of cities\, in land left unoccupied by formal planning a
+ nd construction\, which is often at high risk from environmental hazards\,
+  including flooding. A key question for policy-makers is to what extent re
+ sidents of informal settlements understand these risks and choose to live 
+ in these neighbourhoods anyway\, given a limited set of alternatives\, or 
+ whether imperfect information leads people to expose themselves to risks t
+ hey do not understand. We study housing markets in the context of the larg
+ e informal settlement of Kibera\, in Nairobi\, Kenya.  We use rich and no
+ vel data to describe sorting along flood risk: high-flood-risk properties 
+ are rented by residents with shorter tenancy durations who report greater 
+ flood-related damages\, while rents change non-monotonically with flood ri
+ sk. These patterns are consistent with some degree of information asymmetr
+ y about flood risk between property owners and tenants. This study sheds l
+ ight on the root causes of exposure to environmental hazards in informal s
+ ettlements. </span>
+LAST-MODIFIED:20251118T063531Z
+LOCATION:OMDS Seminar Room
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applied Economics Seminar\, Andreas Niedermayer (Cergy Paris Unive
+ rsité)
+DTSTART:20260428T111500Z
+DTEND:20260428T123000Z
+DTSTAMP:20251202T212449Z
+UID:7boihqe03rplhf8iaqrnqbeae2@google.com
+SEQUENCE:0
+CREATED:20251125T103528Z
+DESCRIPTION:<span><u>Title:</u> </span><p><span><u>Abstract:</u> </span>
+ </p>
+LAST-MODIFIED:20251125T103910Z
+LOCATION:OMDS Seminar Room
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY: Research Seminar in Macroeconomics - Martino Biondani
+DTSTART:20251216T080000Z
+DTEND:20251216T093000Z
+DTSTAMP:20251202T212446Z
+UID:5g83l8fbct4fcff9k9056cl1qe@google.com
+SEQUENCE:0
+CREATED:20251120T133034Z
+DESCRIPTION:<b><u>Speaker:</u></b> Martino Biondani
+LAST-MODIFIED:20251120T133035Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Macroeconomics - Gerhard Sorger
+DTSTART:20251021T070000Z
+DTEND:20251021T083000Z
+DTSTAMP:20251202T212446Z
+UID:1scorqa96vpvlv6aq7e3j4edok@google.com
+SEQUENCE:0
+CREATED:20251008T061130Z
+DESCRIPTION:<b><u>Speaker:</u></b> Gerhard Sorger<br><br><b><u>Title:</u><
+ /b> “On stock price bubbles in simple growth models”.
+LAST-MODIFIED:20251008T061142Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Macroeconomics - Alejandro Cunat 
+DTSTART:20251028T080000Z
+DTEND:20251028T093000Z
+DTSTAMP:20251202T212446Z
+UID:6jb5u8rj940v46ovdi2a6eo1k7@google.com
+SEQUENCE:0
+CREATED:20251006T110508Z
+DESCRIPTION:<b><u>Speaker:</u></b> Alejandro Cunat<br><br><b><u>Title:</u>
+ </b> “Unbalanced Trade 2.0”\, with Robert Zymek.
+LAST-MODIFIED:20251024T100155Z
+LOCATION:OMDS-Seminar-Room\, 3rd floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Research Seminar in Macroeconomics - Fabian Greimel
+DTSTART:20251209T080000Z
+DTEND:20251209T093000Z
+DTSTAMP:20251202T212446Z
+UID:5l0up6n5vj1ne4j40vksh9alif@google.com
+SEQUENCE:0
+CREATED:20251010T093946Z
+DESCRIPTION:<b><u>Speaker:</u></b> Fabian Greimel
+LAST-MODIFIED:20251010T093946Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Macroeconomics - Anna Stelzer
+DTSTART:20251104T080000Z
+DTEND:20251104T093000Z
+DTSTAMP:20251202T212446Z
+UID:46bnn34qasu4svarbrrpfvd5hf@google.com
+SEQUENCE:0
+CREATED:20251006T112422Z
+DESCRIPTION:<b><u>Speaker: </u></b>Anna Stelzer<br><br><b><u>Title:</u></b
+ > "Are there asymmetries in euro area monetary policy?"<br><br><b><u>Abstr
+ act:</u></b><br>We assess a symmetries and non linearities in the dynamic 
+ responses of euro area variables in response to monetary policy shocks. Ou
+ r multivariate nonparametric mixed-frequency model is estimated using Baye
+ sian Additive Regression Trees (BART)\, and we provide comprehensive discu
+ ssions of how to compute causal effects in a non linear context. Our datas
+ et includes macroeconomic and financial variables  alongside survey-based
+  in dicators measuring credit conditions and bank lending transmission cha
+ nnels.The results suggest limited effects of expansionary policy shocks wh
+ ereas contractionary shocks yield responses in line with theory. There is 
+ little variation over the business cycle and in distinct periods such as a
+ t the effective lower bound.
+LAST-MODIFIED:20251006T112653Z
+LOCATION:OMDS-Seminar-Room\, 3rd floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Macroeconomics - Philipp Ulbing 
+DTSTART:20251202T080000Z
+DTEND:20251202T093000Z
+DTSTAMP:20251202T212446Z
+UID:59f3ak6d0jrmfqld8e3epc9qdk@google.com
+SEQUENCE:0
+CREATED:20251002T123625Z
+DESCRIPTION:<b><u>Speaker:</u></b> Philipp Ulbing<br><br><b><u>Title: </u
+ ></b>"Bank Balance Sheets and Monetary Policy Transmission: The Impact of 
+ Negative Interest Rates on Household Deposits".
+LAST-MODIFIED:20251201T073641Z
+LOCATION:OMDS-Seminarroom\, 3rd floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Macroeconomics - Christos Makridis
+DTSTART:20251007T070000Z
+DTEND:20251007T083000Z
+DTSTAMP:20251202T212446Z
+UID:6ueba94g3e0p2fu737gvh25rf0@google.com
+SEQUENCE:1
+CREATED:20251002T122934Z
+DESCRIPTION:<b><u>Speaker:</u></b> Christos Makridis<br><br><b><u>Title:</
+ u></b> Public Debt and Private Sentiment: International Evidence from the 
+ GallupWorld Poll<br><br><b><u>Abstract: </u></b><br>This paper investigate
+ s whether and how public debt influences individual economic expectations 
+ and subjective well-being\, using microdata from the Gallup World Poll spa
+ nning 2006 to 2024 across a broad set of countries. While macroeconomic re
+ search has increasingly focused on the sustainability of publicdebt and it
+ s effects on interest rates\, investment\, and inflation\, far less isknow
+ n about how rising debt levels shape public sentiment. Drawing on over ade
+ cade of harmonized survey responses linked with country-year fiscal indica
+ tors\, I assess whether individuals’ perceptions of the economy and inst
+ itutions vary systematically with national debt-to-GDP ratios. I find robu
+ st evidence that higher debt levels affect economic expectations even afte
+ r controlling for a wide array of demographics\, country fundamentals\, in
+ come shocks\, and both country and year fixed effects. Debt also has stron
+ ger effects on expectations during times of economic hardship. I subsequen
+ tly build and calibrate a model with heterogeneous agents and incomplete c
+ ontracts to quantify the strength of the expectations channel in a stylize
+ d setting. These results suggest that high debt levels affect individual w
+ ell-being through an expectations channel\, rather than just an income.
+LAST-MODIFIED:20251002T123250Z
+LOCATION:OMDS-Seminarroom\, 3rd floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Macroeconomics - Elen Edilian 
+DTSTART:20260113T080000Z
+DTEND:20260113T093000Z
+DTSTAMP:20251202T212446Z
+UID:3m6ts426p7afj1e4stba3pqbj6@google.com
+SEQUENCE:0
+CREATED:20251002T123953Z
+DESCRIPTION:<b><u>Speaker:</u></b> Elen Edilian
+LAST-MODIFIED:20251002T123953Z
+LOCATION:OMDS-Seminarroom\, 3rd floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Macroeconomics - Theresa Mayrhofer
+DTSTART:20251118T080000Z
+DTEND:20251118T093000Z
+DTSTAMP:20251202T212446Z
+UID:3v8430qdlaqi7el8nhvj39lik5@google.com
+SEQUENCE:0
+CREATED:20251002T123353Z
+DESCRIPTION:<b><u>Speaker:</u></b> Theresa Mayrhofer<br><br><b><u>Title:</
+ u></b> "Revolution at Home: The Impact of Work From Home on Wage Dynamics
+ "
+LAST-MODIFIED:20251114T094029Z
+LOCATION:OMDS-Seminarroom\, 3rd floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Macroeconomics - Fabian Prettenthaler
+DTSTART:20251014T070000Z
+DTEND:20251014T083000Z
+DTSTAMP:20251202T212446Z
+UID:3gjso7tjbo794gsh27k2auc180@google.com
+SEQUENCE:0
+CREATED:20251002T123235Z
+DESCRIPTION:<b><u>Speaker:</u></b> Fabian Prettenthaler<br><b><u><br></u><
+ /b><br><b><u>Title:</u></b> “Staying Put:  Housing Decisions of Asset-R
+ ich\, Cash-Poor Elderly Households”
+LAST-MODIFIED:20251013T075108Z
+LOCATION:OMDS-Seminarroom\, 3rd floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Macroeconomics - Regina Kiss
+DTSTART:20260120T080000Z
+DTEND:20260120T093000Z
+DTSTAMP:20251202T212446Z
+UID:5hg5vl46msu82teftu28k282ed@google.com
+SEQUENCE:0
+CREATED:20251002T124024Z
+DESCRIPTION:Speaker: Regina Kiss
+LAST-MODIFIED:20251002T124025Z
+LOCATION:OMDS-Seminarroom\, 3rd floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

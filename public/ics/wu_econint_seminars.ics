@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WU Economics Internal Seminar Calendar//
+BEGIN:VEVENT
+SUMMARY:Qin Lin: "Childcare Availability During Nonstandard Hours and Hous
+ ehold Choices“
+DTSTART;TZID=Europe/Vienna:20250710T120000
+DTEND;TZID=Europe/Vienna:20250710T133000
+DESCRIPTION:Speaker: Qin Lin\nTitle: "Childcare Availability During Nonsta
+ ndard Hours and Household Choices“
+LOCATION:room D4.0.039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aleksandra Anic: "Female Occupational Intensity: Evidence from Ser
+ bia“
+DTSTART;TZID=Europe/Vienna:20251021T120000
+DTEND;TZID=Europe/Vienna:20251021T133000
+DESCRIPTION:Speaker: Aleksandra Anic\nTitle: "Female Occupational Intensit
+ y: Evidence from Serbia“
+LOCATION:room TC.3.07
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kai Fischer: "Competition\, Management\, and Productivity: Evidenc
+ e from the German Coal Mining Industry“
+DTSTART;TZID=Europe/Vienna:20250411T120000
+DTEND;TZID=Europe/Vienna:20250411T133000
+DESCRIPTION:Speaker: Kai Fischer\nTitle: "Competition\, Management\, and P
+ roductivity: Evidence from the German Coal Mining Industry“
+LOCATION:room D2.0.030
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Federica Braccioli: "From Stigma to Policy: The Decriminalization 
+ of Sex Work?"
+DTSTART;TZID=Europe/Vienna:20251111T120000
+DTEND;TZID=Europe/Vienna:20251111T130000
+DESCRIPTION:Speaker: Federica Braccioli\nTitle: "From Stigma to Policy: Th
+ e Decriminalization of Sex Work?"
+LOCATION:room TC.4.04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Söhnke Bergmann: "Divided by Distance? Exploring the impact of ba
+ nk proximity on financial inclusion“
+DTSTART;TZID=Europe/Vienna:20251118T120000
+DTEND;TZID=Europe/Vienna:20251118T133000
+DESCRIPTION:Speaker: Söhnke Bergmann\nTitle: "Divided by Distance? Explor
+ ing the impact of bank proximity on financial inclusion“
+LOCATION:room D2.0.030
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raphael Gottweis\; Nicolas Göller: "Domestic Violence and Emergen
+ cy Response“\; "I hope they raise their prices: Tariff pass-through and 
+ markups in the US“
+DTSTART;TZID=Europe/Vienna:20251125T120000
+DTEND;TZID=Europe/Vienna:20251125T133000
+DESCRIPTION:Speaker: Raphael Gottweis\; Nicolas Göller\nTitle: "Domestic 
+ Violence and Emergency Response“\; "I hope they raise their prices: Tari
+ ff pass-through and markups in the US“
+LOCATION:room D4.0.127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shuo Yu: "Social Returns to Conversation: Incentives for Cover Cro
+ ps and Water Quality in the Midwest“
+DTSTART;TZID=Europe/Vienna:20250212T120000
+DTEND;TZID=Europe/Vienna:20250212T133000
+DESCRIPTION:Speaker: Shuo Yu\nTitle: "Social Returns to Conversation: Ince
+ ntives for Cover Crops and Water Quality in the Midwest“
+LOCATION:room EA.5.040
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martin Rode: "The Milei Question\, or: How Liberal Are Right-Wing 
+ Populist Parties? A Measurement Approach Using Large Language Models“
+DTSTART;TZID=Europe/Vienna:20250912T120000
+DTEND;TZID=Europe/Vienna:20250912T133000
+DESCRIPTION:Speaker: Martin Rode\nTitle: "The Milei Question\, or: How Lib
+ eral Are Right-Wing Populist Parties? A Measurement Approach Using Large L
+ anguage Models“
+LOCATION:room D4.0.039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moritz Hörl: "Heterogeneous Upward Social Mobility: Evidence from
+  Individual-Level Estimates“
+DTSTART;TZID=Europe/Vienna:20251216T120000
+DTEND;TZID=Europe/Vienna:20251216T133000
+DESCRIPTION:Speaker: Moritz Hörl\nTitle: "Heterogeneous Upward Social Mob
+ ility: Evidence from Individual-Level Estimates“
+LOCATION:room D4.0.127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Benjamin Kirchler\; Oliver Reiter: "The Power of Framing: Loss Ave
+ rsion and Electricity Consumption“\; "tba“
+DTSTART;TZID=Europe/Vienna:20260113T120000
+DTEND;TZID=Europe/Vienna:20260113T133000
+DESCRIPTION:Speaker: Benjamin Kirchler\; Oliver Reiter\nTitle: "The Power 
+ of Framing: Loss Aversion and Electricity Consumption“\; "tba“
+LOCATION:room D4.0.136
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dora Walter: "When Love Is Scarce: Early Marriage Market Competiti
+ on and Labor Market Outcomes“
+DTSTART;TZID=Europe/Vienna:20260120T120000
+DTEND;TZID=Europe/Vienna:20260120T133000
+DESCRIPTION:Speaker: Dora Walter\nTitle: "When Love Is Scarce: Early Marri
+ age Market Competition and Labor Market Outcomes“
+LOCATION:room D4.0.136
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,229 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:VIES-Seminar - Banu Demir - University of Oxford
+DTSTART:20251007T151500Z
+DTEND:20251007T171500Z
+DTSTAMP:20251202T212451Z
+UID:1l0d4329t5aejjajsob022pa91@google.com
+SEQUENCE:1
+CREATED:20250916T095107Z
+DESCRIPTION:<b><u>Speaker:</u></b> Banu Demir<br><br><b><u>Title: </u></b>
+ <br>"<i>Plastic Turkey: International Impacts of China's Waste Import Ban<
+ /i>”\, with Deniz Atalar and Swati Dhingra.<br><br><b><u>Webpage:</u></b
+ > <a href="https://sites.google.com/site/banudemirpakel/" target="_blank"
+ ><u>https://sites.google.com/site/banudemirpakel/</u></a>
+LAST-MODIFIED:20251008T115012Z
+LOCATION:Oskar-Morgenstern-Platz\, 1090 Wien\, Österreich\, HS 17 (2nd fl
+ oor)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIES-Seminar - David Atkin - MIT
+DTSTART:20260519T154500Z
+DTEND:20260519T171500Z
+DTSTAMP:20251202T212451Z
+UID:53ueur3ne73rrk8p13u6egi6ci@google.com
+SEQUENCE:0
+CREATED:20250813T100149Z
+DESCRIPTION:<b><u>Speaker:</u></b> David Atkin<br><b><u><br></u></b><br><b
+ ><u>Webpage: </u></b><a href="https://www.mit.edu/~atkin/">https://www.mi
+ t.edu/~atkin/</a>
+LAST-MODIFIED:20251201T115421Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIES-Seminar - Nitya Pandalai-Nayer - UT Austin
+DTSTART:20251021T154500Z
+DTEND:20251021T174500Z
+DTSTAMP:20251202T212451Z
+UID:51ijcnduqip9u5mjldp6re33qb@google.com
+SEQUENCE:2
+CREATED:20250916T095254Z
+DESCRIPTION:<b><u>Speaker: </u></b>Nitya Pandalai-Nayer<br><br><b><u>Titl
+ e: </u></b>The Economic Impact of Mass Deportations\, with Javier Cravino
+ \, Andrei A. Levchenko\, Francesc Ortega.<br><br><u><b>Abstract: </b></u>
+ <br>This paper quantifies the effects of large-scale deportation policies 
+ on wages\, prices\, and<br>real incomes in the United States. We impute th
+ e legal status for each worker in the American<br>Community Survey by comb
+ ining detailed individual information with group-level visa<br>records. In
+  2024\, 3% of US workers were unauthorized\, but these workers were highly
+  concentrated<br>geographically\, by industry\, and by occupation. We then
+  develop a multi-region\,<br>multi-sector\, multi-occupation quantitative 
+ framework with heterogeneous workers to study<br>the economic impacts of t
+ he removal of unauthorized workers. We state analytical results that<br>re
+ late region- and occupation-specific real wage and sectoral relative price
+  changes to shocks to<br>the supply of immigrant workers\, observable shar
+ es of immigrant workers in occupations and<br>regions\, and combinations o
+ f structural elasticities. Following the removal of 50% of unauthorized<br
+ >immigrants\, average native real wages decline in every state\, and by 0.
+ 3% at the national<br>level. At the same time nationwide native wages in t
+ he most immigrant-intensive occupations<br>rise by up to 3.4% in our basel
+ ine calibration. The deportation shock increases the average<br>wages of i
+ mmigrants \, by 12.2% for the unauthorized workers remaining in the countr
+ y\, and<br>3.2% for the authorized. Consumer prices in the sectors with th
+ e highest unauthorized presence<br>– such as Farming – rise by about 1
+ % relative to price of the average consumption basket\,<br>while most othe
+ r sectors experience negligible relative price changes. The overall cost o
+ f living<br>rises by about 0.7% more in the regions hosting the most unaut
+ horized immigrants\, compared<br>to regions with minimal presence of unaut
+ horized workers.<br><br><b><u>Webpage:</u></b> <a href="https://sites.goo
+ gle.com/site/nityapandalainayar/home" target="_blank"><u>https://sites.goo
+ gle.com/site/nityapandalainayar/home</u></a>
+LAST-MODIFIED:20251013T073434Z
+LOCATION:Oskar-Morgenstern-Platz\, 1090 Wien\, Österreich\, HS 17 (2nd fl
+ oor(
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIES-Seminar - Arnaud Costinot - MIT
+DTSTART:20251216T164500Z
+DTEND:20251216T181500Z
+DTSTAMP:20251202T212451Z
+UID:7c5nr6gpam5l8sl78lq9kq67c6@google.com
+SEQUENCE:1
+CREATED:20250916T095727Z
+DESCRIPTION:<b><u>Speaker:</u></b> Arnaud Costinot<br><br><b><u>Title:</u>
+ </b> “A World Trading System for Whom? Evidence fromGlobal Tariffs.”<
+ br><br><b><u>Abstract: </u></b><br>We use global tariffs to reveal the we
+ ights that nations implicitly place on the welfare of their trading partne
+ rs relative to their own. Our estimated welfare weights suggest that forma
+ l and informal rules of the world trading system make countries internaliz
+ e the impact of their policies onto others to a substantial extent\, thoug
+ h not fully. On average\, countries place 19% less value on transfers to f
+ oreigners than transfers to their own residents. Across nations\, we find 
+ that countries that put more weights on the welfare of foreigners also ten
+ ds to receive higher welfare weights from them. Ourresults are consistent 
+ with international cooperation being sustained by a general form of recipr
+ ocity among nations: cooperative behavior by one country\, in the form of 
+ a higher welfare weight\, is reciprocated with cooperative behavior by its
+  partner\, also in the form of a higher welfare weight. This is true both 
+ within and outside the World Trade Organization  <br><b><u><br></u></b><
+ b><u>Webpage:</u></b> <a href="https://cepr.org/about/people/arnaud-costi
+ not" target="_blank"><u>https://cepr.org/about/people/arnaud-costinot</u><
+ /a>
+LAST-MODIFIED:20251008T115925Z
+LOCATION:Oskar-Morgenstern-Platz 1\, 1090 Wien\, Skylounge (12th floor)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIES-Seminar - Christoph Boehm - UT Austin
+DTSTART:20251118T164500Z
+DTEND:20251118T181500Z
+DTSTAMP:20251202T212451Z
+UID:0aegrqhqb8rd2gagu73h7ghhvu@google.com
+SEQUENCE:1
+CREATED:20250916T095500Z
+DESCRIPTION:<b><u>Speaker:</u></b> Christoph Boehm<br><br><b><u>Title:</u>
+ </b><span> </span>Dynamic Models\, New Gains from Trade?<br><b><u><br></u
+ ></b><b><u>Abstract: </u></b><br>Yes. We state closed-form expressions fo
+ r steady state gains from trade that apply in a class of<br>dynamic trade 
+ models that includes dynamic versions of the Krugman (1980)\, Melitz (2003
+ )\, and<br>customer capital (e.g.\, Arkolakis\, 2010) models. The gains ar
+ e a function of the domestic trade<br>share and the long-run elasticity of
+  trade with respect to iceberg trade costs\, similar to Arkolakis\,<br>Cos
+ tinot\, and Rodríguez-Clare (2012). In a dynamic setting\, this long-run 
+ elasticity cannot be<br>estimated in one step by relying on tariff variati
+ on as shifters of trade costs. Instead\, it can be<br>recovered by combini
+ ng two tariff elasticity estimates: the long- and the short-run. Thus\, th
+ e<br>short-run tariff elasticity indirectly enters the formula for the ste
+ ady state gains from trade. Our<br>main substantive finding is that the ga
+ ins from trade are large. They depend crucially on the<br>short-run tariff
+  elasticity\, and can be arbitrarily large even if the long-run tariff ela
+ sticity is high.<br>Accounting for the transition path has a modest impact
+  on the magnitude of the gains from trade\,<br>relative to simply comparin
+ g steady states.<span><span><br></span></span><br><b><u>Webpage: </u></b>
+ <a href="https://www.christopheboehm.com/" target="_blank"><u>https://www.
+ christopheboehm.com/</u></a>
+LAST-MODIFIED:20251008T115327Z
+LOCATION:Oskar-Morgenstern-Platz 1\, 1090 Wien\, HS 17 (2nd floor)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIES-Seminar - Yuan Zi - Graduate Institute Geneva
+DTSTART:20260616T154500Z
+DTEND:20260616T171500Z
+DTSTAMP:20251202T212451Z
+UID:26d9e3oh6h5e1g9s5sj4sn3gv1@google.com
+SEQUENCE:0
+CREATED:20251201T115240Z
+DESCRIPTION:<b><u>Speaker:</u></b> Yuan Zi<br><br><b><u>Webpage:</u></b> 
+ <a href="https://www.graduateinstitute.ch/faculty/yuan-zi">https://www.gra
+ duateinstitute.ch/faculty/yuan-zi</a>
+LAST-MODIFIED:20251201T115531Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIES-Seminar - Mathieu Parenti - Paris School of economics
+DTSTART:20260602T154500Z
+DTEND:20260602T171500Z
+DTSTAMP:20251202T212451Z
+UID:1mnkrq6i3k52vccdev5ao9kark@google.com
+SEQUENCE:0
+CREATED:20251201T115152Z
+DESCRIPTION:<b><u>Speaker: </u></b>Mathieu Parenti<br><br><b><u>Webpage: 
+ </u></b><a href="https://www.parisschoolofeconomics.eu/en/persons/mathieu-
+ parenti/">https://www.parisschoolofeconomics.eu/en/persons/mathieu-parenti
+ /</a>
+LAST-MODIFIED:20251201T115508Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIES-Seminar - Thierry Mayer - Sciences Po
+DTSTART:20251202T164500Z
+DTEND:20251202T181500Z
+DTSTAMP:20251202T212451Z
+UID:4fsefct6llddf005e7eg960hga@google.com
+SEQUENCE:0
+CREATED:20250916T095623Z
+DESCRIPTION:<b><u>Speaker:</u></b> Thierry Mayer<br><br><b><u>Title: </u><
+ /b>The Fragmentation Paradox: De-risking Trade and Global Safety  <br><b
+ r><b><u>Abstract:</u></b><br><p>We develop a model embedding a diplomatic 
+ game within aquantitative model oftrade. Bilateral disputes arise exogenou
+ sly\, and rival countries engage innegotiations (which may fail) to avoid
+  war. All welfare-relevantgeoeconomic factors\, such as the realized cos
+ ts of war\, the concessions toprevent it\, and the probability of escalat
+ ion\, depend on the opportunitycost of war\, itself shaped by observed tr
+ ade flows. We show how toestimate  these costs in a calibrated model of t
+ rade applying it theUS-China relationship\, both historically and under de
+ coupling scenarios. Wefind that the growing US dependence on Chinese produ
+ cts and markets increased  the cost of bilateral disputes. In this cont
+ ext\,decoupling from China through increased tariffs may offer  geopoliti
+ calbenefits. Yet\, our analysis highlights a fundamental\\textit{securityd
+ ilemma}:decoupling may reduce the diplomatic concessions needed to maintai
+ npeace but can paradoxically raise the risk of escalation by weakeninginc
+ entives for restraint.</p><b><u>Webpage: </u></b><a href="https://sites.g
+ oogle.com/site/thierrymayer/" target="_blank"><u>https://sites.google.com/
+ site/thierrymayer/</u></a>
+LAST-MODIFIED:20251124T094152Z
+LOCATION:Oskar-Morgenstern-Platz 1\, 1090 Wien\, HS 17 (2nd floor)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIES-Seminar - Alberto Martin - CREI/Pompeu Fabra
+DTSTART:20260310T164500Z
+DTEND:20260310T181500Z
+DTSTAMP:20251202T212451Z
+UID:5395iut7ahdncvhnqlc5sl89pu@google.com
+SEQUENCE:1
+CREATED:20251201T114934Z
+DESCRIPTION:<b><u>Speaker: </u></b>Alberto Martin<br><br><b><u>Webpage:</u
+ ></b> <a href="https://crei.cat/people/martin/">https://crei.cat/people/m
+ artin/</a>
+LAST-MODIFIED:20251201T115340Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

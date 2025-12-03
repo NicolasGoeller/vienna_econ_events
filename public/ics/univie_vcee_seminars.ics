@@ -1,0 +1,348 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:VCEE Seminar: Valeria Burdea (LMU Munich)
+DTSTART:20251103T103000Z
+DTEND:20251103T120000Z
+DTSTAMP:20251202T212450Z
+UID:0a2mtujrcq9ks0p2fm97no1v7r@google.com
+SEQUENCE:0
+CREATED:20250623T121554Z
+DESCRIPTION:<b><u>Speaker:</u> </b><a href="https://www.econ.lmu.de/de/per
+ sonen/kontaktseite/valeria-burdea-c5b930f4.html" target="_blank">Valeria B
+ urdea</a><br><br><b><u>Title:</u></b> Partisan Biases in Source Credibili
+ ty Beliefs<br><u><br><b>Abstract:</b></u> Political polarization over bas
+ ic facts poses a serious challenge to the functioning of democracies. Yet 
+ distinguishing between competing explanations for fact polarization throug
+ h evidence of learning (first-order beliefs) is hindered by observational 
+ equivalence. To address this limitation\, we examine source credibility (s
+ econd-order) beliefs - perceptions of the accuracy of others’ factual kn
+ owledge. Our findings reveal strong evidence that in-group partisan bias i
+ s a key mechanism linking first-order rational learning to fact polarizati
+ on. In-group partisans are consistently perceived as having more accurate 
+ knowledge than out-group partisans. This partisan gap is primarily driven 
+ by political affect - feelings toward members of each party - rather than 
+ party-specific knowledge\, implying a hybrid model of first-order rational
+  learning with second-order motivated reasoning. These results have direct
+  implications for media\, institutions\, and policymakers seeking to mitig
+ ate bias and reduce polarization.
+LAST-MODIFIED:20251103T080459Z
+LOCATION:Oskar-Morgenstern-Platz 1\, Hörsaal 7\, 1st floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Workshop on Decision-Making and Bounded Rationality
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260418
+DTSTAMP:20251202T212450Z
+UID:47q3h4jjiua1mef7hlj267l54i@google.com
+SEQUENCE:2
+CREATED:20250625T115702Z
+LAST-MODIFIED:20251002T092939Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Brownbag-Seminar - Anand Murugesan 
+DTSTART:20251215T121500Z
+DTEND:20251215T131500Z
+DTSTAMP:20251202T212450Z
+UID:6rdfchitrv1htmv7ii9o1hvai4@google.com
+SEQUENCE:1
+CREATED:20251008T085457Z
+DESCRIPTION:<b><u>Speaker:</u></b> Anand Murugesan <br><br><b><u>Title:<
+ /u></b> Measuring Democratic Resilience<br><br>Pizza at 13:00
+LAST-MODIFIED:20251103T143605Z
+LOCATION:OMDS Seminar Room (#3.307)\, OMP-1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Seminar: Felix Holzmeister (U Innsbruck)
+DTSTART:20260427T093000Z
+DTEND:20260427T110000Z
+DTSTAMP:20251202T212450Z
+UID:24bff3cogn4btoo4icaeceijoj@google.com
+SEQUENCE:0
+CREATED:20251201T091326Z
+DESCRIPTION:<b><u>Speaker:</u></b> Felix Holzmeister<b><br><br></b><b><u>
+ Title:</u></b> tba<br><u><br><b>Abstract:</b></u> tba
+LAST-MODIFIED:20251201T091326Z
+LOCATION:Oskar-Morgenstern-Platz 1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Seminar: Kristoffer Hvidberg (U Aarhus)
+DTSTART:20251020T093000Z
+DTEND:20251020T110000Z
+DTSTAMP:20251202T212450Z
+UID:1nkdrfpk6ns6n7fluge11m5k90@google.com
+SEQUENCE:0
+CREATED:20250623T121127Z
+DESCRIPTION:<b><u>Speaker:</u> </b><a href="https://kristofferhvidberg.com
+ /" target="_blank">Kristoffer Hvidberg </a><br><br><b><u>Title:</u></b> 
+ Preferences and Choice of Education<br><br><b><u>Abstract:</u></b> We inv
+ estigate whether economic preferences influence educational choices indepe
+ ndently of cognitive ability. Using incentivized experiments with over 4\,
+ 000 Danish 19-year-olds linked to administrative records\, we find that pa
+ tience predicts enrollment in longer educational programs\, while risk ave
+ rsion predicts selection into programs with lower earnings dispersion. Bot
+ h effects persist after controlling for cognitive ability measured by GPA\
+ , demographic characteristics\, and parental background. Our results demon
+ strate that economic preferences explain variation in educational choices 
+ beyond academic background and achievement\, with implications for underst
+ anding human capital investment.
+LAST-MODIFIED:20251103T080445Z
+LOCATION:Oskar-Morgenstern-Platz 1\, Hörsaal 7\, 1st floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Seminar: Roberto Galbiati (Sciences Po Paris)
+DTSTART:20260413T093000Z
+DTEND:20260413T110000Z
+DTSTAMP:20251202T212450Z
+UID:103djvl524o3huh5k08i499c4n@google.com
+SEQUENCE:0
+CREATED:20251201T091112Z
+DESCRIPTION:<b><u>Speaker:</u></b> Roberto Galbiati<b><br><br></b><b><u>T
+ itle:</u></b> tba<br><u><br><b>Abstract:</b></u> tba
+LAST-MODIFIED:20251201T091112Z
+LOCATION:Oskar-Morgenstern-Platz 1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Seminar: Jonathan Chapman (U Bologna)
+DTSTART:20260126T103000Z
+DTEND:20260126T120000Z
+DTSTAMP:20251202T212450Z
+UID:6nt8cbutcf903397ij0mlc8cb8@google.com
+SEQUENCE:0
+CREATED:20250623T123931Z
+DESCRIPTION:<b><u>Speaker:</u></b> <a href="https://jnchapman.com/" targe
+ t="_blank">Jonathan Chapman</a><br><br><b><u>Title:</u></b> Reassessing Q
+ ualitative Self-Assessments and Experimental Validation<br><br><b><u>Abstr
+ act:</u></b> Qualitative self-assessments of economic preferences have re
+ cently gained popularity\, often supported by experimental validation\, a 
+ method that links them to choices in incentivized elicitations. We illustr
+ ate theoretically that experimental validation may fail to produce reliabl
+ e new measures. Empirically\, analyzing data from over 13\,000 participant
+ s across diverse samples\, we document four key findings. First\, qualitat
+ ive self-assessments and traditional incentivized measures exhibit weak co
+ rrelations\, even when accounting for response noise. Second\, qualitative
+  self-assessments sometimes correlate more strongly with theoretically dis
+ tinct incentivized elicitations than those for which they are intended to 
+ proxy. Third\, relationships between qualitative self-assessments and vari
+ ous attributes — including geographical location\, demographics\, and be
+ haviors — are unrelated to variation in incentivized elicitations. Fourt
+ h\, qualitative self-assessments are no simpler for participants than ince
+ ntivized elicitations: these questions show a common heuristic of extreme 
+ or midpoint responses\, especially by individuals with lower cognitive abi
+ lity.
+LAST-MODIFIED:20251103T080611Z
+LOCATION:Oskar-Morgenstern-Platz 1\, Hörsaal 7\, 1st floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Seminar: Philipp Lergetporer (TUM Munich)
+DTSTART:20251117T103000Z
+DTEND:20251117T120000Z
+DTSTAMP:20251202T212450Z
+UID:36ghdljt2u73kbpjv4ttqljups@google.com
+SEQUENCE:1
+CREATED:20250623T121848Z
+DESCRIPTION:<b><u>Speaker:</u></b> <a href="https://www.mgt.tum.de/global-
+ center-for-family-enterprise/prof-dr-philipp-lergetporer" target="_blank">
+ Philipp Lergetporer</a><b><br><br></b><b><u>Title:</u></b> When the Headl
+ ine Hits Home: Perceived Risk of Military Conflict and Preferences for Def
+ ense Policy (with Sebastian Blesse\, Clara-Marie Pache\, Helen Zeidler)<b
+ r><br><b><u>Abstract:</u></b> Global news is more frequently influenced b
+ y imminent and existing military conflicts. The perceived threat of these 
+ conflicts is likely a significant factor in shaping real-world public poli
+ cies\, which may account for the rise in military armament worldwide. We c
+ onduct a representative survey experiment in Germany to examine how provid
+ ing information about expert-evaluated risks of a direct military conflict
+  with Russia affects public perceptions and policy preferences. Experts ev
+ aluate the likelihood of a NATO–Russia conflict and a Germany–Russia c
+ onflict to be 48% and 28% over the next decade\, respectively\, but the ge
+ neral public tends to overestimate these probabilities on average. Providi
+ ng the public with information about experts’ assessments raises concern
+ s about potential conflict involvement\, and increases support for defense
+  policies\, including higher defense spending\, mandatory military service
+ \, military growth\, and assistance to Ukraine. The treatment effects pers
+ ist in a follow-up survey\, suggesting persistent belief updating and shif
+ ts in defense-related preferences via perceived conflict risk.
+LAST-MODIFIED:20251104T095219Z
+LOCATION:Oskar-Morgenstern-Platz 1\, Hörsaal 7\, 1st floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Seminar: Ernesto Reuben (NYU Abu Dhabi)
+DTSTART:20260112T103000Z
+DTEND:20260112T120000Z
+DTSTAMP:20251202T212450Z
+UID:3b68k1sp2e0mr90man5gfura9g@google.com
+SEQUENCE:0
+CREATED:20250623T123859Z
+DESCRIPTION:<b><u>Speaker:</u></b> <a href="https://www.ereuben.net/" targ
+ et="_blank">Ernesto Reuben</a><b><br><br></b><b><u>Title:</u></b> tba<br><
+ br><b><u>Abstract:</u></b> tba
+LAST-MODIFIED:20251103T080550Z
+LOCATION:Oskar-Morgenstern-Platz 1\, Hörsaal 7\, 1st floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Seminar: Ruben Durante (NUS Singapore)
+DTSTART:20251201T103000Z
+DTEND:20251201T120000Z
+DTSTAMP:20251202T212450Z
+UID:2k72g2pcof0eo78ged5eu9qqnh@google.com
+SEQUENCE:0
+CREATED:20250623T123739Z
+DESCRIPTION:<b><u>Speaker:</u></b> <a href="https://www.rubendurante.net/"
+  target="_blank">Ruben Durante</a><b><br><br></b><b><u>Title:</u></b> Gen
+ AI Misinformation\,Trust\, and News Consumption: Evidence from a Field Exp
+ eriment (with Filipe Campante\, Ruben Durante\, Felix Hagemeister\, Ananya
+  Sen) <br><u><br><b>Abstract:</b></u> We study how AI-generated misinfor
+ mation affects demand for trustworthy news\, using data from a field exper
+ iment by <i>Süddeutsche Zeitung (SZ)</i>\, a major German newspaper. Read
+ ers were randomly assigned to a treatment that highlighted the difficulty 
+ of distinguishing real from AI-generated images. The treatment increased c
+ oncern over misinformation (+0.3 s.d.) and reduced trust in all news sourc
+ es (-0.1 s.d.)\, including SZ itself. Crucially\, it also affected post-su
+ rvey browsing behavior: daily visits to SZ digital content rose by 2.5% in
+  the days following the treatment. In addition\, subscriber retention incr
+ eased by 1.1% over the following five months\, corresponding to about a on
+ e-third drop in attrition rate. These results are consistent with a model 
+ in which the relative value of trustworthy news sources rises with the pre
+ valence of misinformation\, boosting engagement with these sources even as
+  trust in news content declines.
+LAST-MODIFIED:20251117T105120Z
+LOCATION:Oskar-Morgenstern-Platz 1\, Hörsaal 7\, 1st floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Brownbag - Seminar - Can Celibi
+DTSTART:20251013T110000Z
+DTEND:20251013T120000Z
+DTSTAMP:20251202T212450Z
+UID:4gmvkh950k9ajldkf0k74jfqgq@google.com
+SEQUENCE:1
+CREATED:20251008T084959Z
+DESCRIPTION:<b><u>Speaker:</u></b> Can Celibi<br><br><b><u>Title:</u></b> 
+ "Expert\, crowd and machine: comparing LLM and human classification distri
+ butions of strategic thinking"
+LAST-MODIFIED:20251008T085009Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Away Day (Internal Event)
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260613
+DTSTAMP:20251202T212450Z
+UID:47f0j59h7cq7set1sjpvcv1voi@google.com
+SEQUENCE:0
+CREATED:20250616T080624Z
+LAST-MODIFIED:20250616T080625Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Brownbag-Seminar - Chris Hoehne
+DTSTART:20251124T121500Z
+DTEND:20251124T131500Z
+DTSTAMP:20251202T212450Z
+UID:4hq4mh8691r6g2ait2nrmh9gcn@google.com
+SEQUENCE:1
+CREATED:20251008T085356Z
+DESCRIPTION:<b><u>Speaker:</u></b> Chris Hoehne<br><br><b><u>Title: </u>
+ </b> Polarization based on Moralisation: An Experimental Design Proposal<
+ br><br><br><u><b>Abstract: </b></u><br>Polarization has gained widespread
+  attention. Yet\, the underlying mechanism for the (perceived) increase in
+  polarization isn’t well understood. In this project\, I aim to examine 
+ morals and moral narratives as a potential driver\, as public discourse se
+ ems to increasingly hinge on normative judgments of what is “right” or
+  “wrong”. If people internalise these moralized narratives and convert
+  them into value judgments of other people’s character\, disagreement ma
+ y escalate into animosity. I will present an experimental design to test
+  this potential link between morals and affective polarization. Specifical
+ ly\, I aim to distinguish whether people punish others based on the action
+  they observe or on the moral justification attached to that action. <br>
+ <br>*Pizza at 13:00*
+LAST-MODIFIED:20251120T122331Z
+LOCATION:OMDS Seminar Room (#3.307)\, OMP-1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Brownbag - Seminar - Ada Kovaliukaite
+DTSTART:20251110T121500Z
+DTEND:20251110T131500Z
+DTSTAMP:20251202T212450Z
+UID:6a8e396lo94e69t8vnj4509o67@google.com
+SEQUENCE:1
+CREATED:20251008T085300Z
+DESCRIPTION:<b><u>Speaker:</u></b> Ada Kovaliukaite<br><br><b><u>Title:</u
+ ></b> Resisting Policy Advice<br><br><b><u>Abstract:</u></b> We study how
+  individuals adopt or resist policy recommendations in a policy lab combin
+ ing a controlled laboratory experiment with an online experiment on a repr
+ esentative U.S. sample. In the lab\, participants compete in a Tullock con
+ test according to two competition rules—an equal‐opportunity rule and
+  an asymmetric rule—and we experimentally vary which rule is framed as l
+ egitimate. This establishes common knowledge about outcomes while manipula
+ ting only the value interpretation of the policy. In the online experiment
+ \, impartial spectators choose between the same two rules to be implemente
+ d in the future laboratory experiments. We find that voter support for the
+  rules varies based on the legitimacy framing and is resistant to informat
+ ion. Exposure to politically slanted messaging impacts policy support and 
+ the effects are different for informed and uninformed agents. Finally\, we
+  investigate the heterogeneous slant effects depending on individual polit
+ ical ideology\, prior beliefs\, distributive preferences\, and demographic
+  characteristics.<br><br><br><b>Pizza at 13:00</b>
+LAST-MODIFIED:20251109T205141Z
+LOCATION:OMDS Seminar Room (#3.307)\, OMP-1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Seminar: Arno Riedl (U Maastricht)
+DTSTART:20260316T103000Z
+DTEND:20260316T120000Z
+DTSTAMP:20251202T212450Z
+UID:1mablu3q2hvu50t07dv2ma5mil@google.com
+SEQUENCE:0
+CREATED:20251201T090752Z
+DESCRIPTION:<b><u>Speaker:</u></b> Arno Riedl<b><br><br></b><b><u>Title:<
+ /u></b> tba<br><u><br><b>Abstract:</b></u> tba
+LAST-MODIFIED:20251201T090752Z
+LOCATION:Oskar-Morgenstern-Platz 1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCEE Brownbag-Seminar - Moritz Loewenfeld
+DTSTART:20260119T121500Z
+DTEND:20260119T131500Z
+DTSTAMP:20251202T212450Z
+UID:0eh5qh39ub7c2o3jqf0ek19met@google.com
+SEQUENCE:1
+CREATED:20251008T085559Z
+DESCRIPTION:<b><u>Speaker:</u></b> Moritz Loewenfeld<br><br>Pizza at 13:00
+LAST-MODIFIED:20251013T122118Z
+LOCATION:OMDS Seminar Room (#3.307)\, OMP-1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

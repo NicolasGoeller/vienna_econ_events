@@ -3,7 +3,16 @@ from bs4 import BeautifulSoup
 import base64
 import re
 from icalendar import Calendar
-from datetime import datetime
+from datetime import datetime, date
+
+### Issues to fix
+# - Incomplete scrape of titles & Abstracts
+# - Inconsistent Whitespace in Description
+# - Inconsistent use of bold and underline in description
+# - Inconsistent location indicators - create proper adresses - this is highly optional
+# - Correct event counting in write_ics
+
+
 
 URL_dict = {"univie_vje": "https://econ.univie.ac.at/research/research-seminars/vje-seminar/",
             "univie_macro": "https://econ.univie.ac.at/research/research-seminars/vgse-macro-seminar/",
@@ -27,15 +36,18 @@ def fetch_full_ics(url):
     src = iframe.get("src")
 
     # Extract src code
-    match = re.search(r"&src=([a-zA-Z0-9_]+)&color", src)
-    if match:
-        ics_src = match.group(1)
-        
-    # Decode src ID from base64
-    padding = '=' * (-len(ics_src) % 4)
-    decoded_bytes = base64.urlsafe_b64decode(ics_src + padding)
-    calendar_id = decoded_bytes.decode("utf-8")
-
+    if "group.calendar.google.com" in src:
+        # Extract calendar ID from link
+        ics_src = re.search(r"&src=([a-zA-Z0-9_]+)%40", src).group(1)
+        calendar_id = ics_src + "@group.calendar.google.com"
+    else:
+        # Extract calendar ID from link
+        ics_src = re.search(r"&src=([a-zA-Z0-9_]+)&color", src).group(1)
+        # Decode src ID from base64
+        padding = '=' * (-len(ics_src) % 4)
+        decoded_bytes = base64.urlsafe_b64decode(ics_src + padding)
+        calendar_id = decoded_bytes.decode("utf-8")
+       
     # Create ics link for downloading
     googlecal_base = "https://calendar.google.com/calendar/ical/"
     googlecal_end = "/public/basic.ics"
@@ -52,9 +64,8 @@ def filter_ics(html_str):
     # Transform downloaded text into ical object
     full_cal = Calendar.from_ical(html_str)
 
-    # Craete new calendar
+    # Create new calendar
     new_cal = Calendar()
-
 
     # Copy over required calendar-level properties
     for prop in ["VERSION", "PRODID", "CALSCALE", "METHOD",'X-WR-TIMEZONE', 'X-WR-CALDESC']:
@@ -72,32 +83,49 @@ def filter_ics(html_str):
     elif now_date.month > 9:
         target_date = datetime(now_date.year, 10, 1).date()
 
-    # Select only components that are happening after start of current semester    
+    # Select only components that are happening after start of current semester  
     for component in full_cal.walk("VEVENT"):
         start = component.get("DTSTART").dt
-        if start.date() >= target_date:
+        # Normalize: always work with a date object
+        if isinstance(start, datetime):
+            start_date = start.date()
+        elif isinstance(start, date):
+            start_date = start
+        else:
+            # Skip if it's neither
+            continue
+        if start_date >= target_date:
             new_cal.add_component(component)
-            
+       
     # Return filtered cal object
     return(new_cal)
 
 
 def write_ics(cal, filename):
-    if len(cal.subcomponents) == 0:
+    event_count = sum(1 for component in cal.walk("VEVENT"))
+    if event_count == 0:
         print("No events found, file not created")
     else:
         with open(filename, "wb") as f: f.write(cal.to_ical())
 
     print(f"Created ICS file: {filename}")
-    
+   
+
 def main():
-    for URL in URL_dict:
-        html_str = fetch_full_ics(URL)
-        ical = filter_ics(html_str)
-        print(f"Found {len(ical)} seminars")
-        write_ics(ical)
+    for URL_name in URL_dict.keys():
+        print(f"Accessing {URL_name} ...")
+        html_str = fetch_full_ics(URL_dict[URL_name])
+        if html_str == None:
+            continue
+        else:
+            ical = filter_ics(html_str)
+        event_count = sum(1 for component in ical.walk("VEVENT"))
+        print(f"Found {event_count} seminars")
+        vie_file = f"../public/ics/{URL_name}_seminars.ics"
+        write_ics(ical, filename=vie_file)
 
 
 if __name__ == "__main__":
     main()
+    
     

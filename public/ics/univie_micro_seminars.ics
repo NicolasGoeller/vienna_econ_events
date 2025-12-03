@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Microeconomics - Klara Weinhappl
+DTSTART:20251203T104500Z
+DTEND:20251203T120000Z
+DTSTAMP:20251202T212448Z
+UID:2vomhrmhalg26ka3aaqgimgp05@google.com
+SEQUENCE:0
+CREATED:20250922T074720Z
+DESCRIPTION:<b><u>Speaker:</u></b> Klara Weinhappl<br><br><b><u>Title: </u
+ ></b>“Deforestation Policies and Their Impact on Coffee Consumption”
+LAST-MODIFIED:20251128T092355Z
+LOCATION:OMDS-Seminarroom\, 3rd floor 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Microeconomics - Julian Polzin 
+DTSTART:20251126T104500Z
+DTEND:20251126T120000Z
+DTSTAMP:20251202T212448Z
+UID:6hl7nlc3nimsdk2gurreumfqc1@google.com
+SEQUENCE:0
+CREATED:20250922T074631Z
+DESCRIPTION:<b><u>Speaker: </u></b>Julian Polzin<br><br><b><u>Title:</u></
+ b> "Acceptance and perceived legitimacy of AI paternalism: Representative 
+ evidence"
+LAST-MODIFIED:20251124T100609Z
+LOCATION:OMDS-Seminar-Room\, 3rd floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Microeconomics - Dominik Erharter\, DG Comp
+DTSTART:20251210T104500Z
+DTEND:20251210T120000Z
+DTSTAMP:20251202T212448Z
+UID:174uepttu7o68qatbi9tob6fr5@google.com
+SEQUENCE:0
+CREATED:20250922T074808Z
+DESCRIPTION:<b><u>Speaker: </u></b>Dominik Erharter
+LAST-MODIFIED:20250922T074821Z
+LOCATION:OMDS-Seminarroom\, 3rd floor 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Microeconomics - Sebastian Ertner 
+DTSTART:20251105T104500Z
+DTEND:20251105T120000Z
+DTSTAMP:20251202T212448Z
+UID:0u162m0cerqt7j32n0vd5rmekr@google.com
+SEQUENCE:0
+CREATED:20250922T074401Z
+DESCRIPTION:<b><u>Speaker: </u></b>Sebastian Ertner
+LAST-MODIFIED:20250922T074401Z
+LOCATION:OMDS-Seminarroom\, 3rd floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Microeconomics - Joseph Stiglitz\, U Columbia 
+DTSTART:20251022T130000Z
+DTEND:20251022T143000Z
+DTSTAMP:20251202T212448Z
+UID:7kf84o4babnjfg4bed0lrjpf01@google.com
+SEQUENCE:1
+CREATED:20250922T074225Z
+DESCRIPTION:<b><u>Speaker:</u></b> Joseph Stiglitz<br><br><b><u>Title:</u>
+ </b><br>"Information\,Communication\, and Knowledge: The Impact of AI and 
+ Digital Platforms on the Information Eco-system"<br><br><b><u>Abstract:</u
+ ></b><br>We develop a tractable model to study how AI and digital platform
+ s impact the<br>information ecosystem. News producers—who create truthfu
+ l or untruthful content that becomes a public good or bad—earn revenue f
+ rom consumer visits through ads and data collection. Consumers search for 
+ information and differ in their ability to distinguish truthful from untru
+ thful information and reliable or unreliable sources of information. AI an
+ d digital platforms influence the ecosystem through four main channels: im
+ proving the efficiency in processing and transmission of information\, end
+ angering the producer business model by reducing visits\, changing the rel
+ ative cost of misinformation\, and altering the ability of consumers to sc
+ reen information from dis-information. <br>Even though these new technolo
+ gies improve the efficiency of processing and transmission\, in the absenc
+ e of a dequate regulation (e.g. concerning accountability\, contentmoderat
+ ion\, and intellectual property protection) the quality of the information
+  ecosystem may decline\, both because the equilibrium quantity of truthful
+  information declines and the share of misinformation increases\; and pola
+ rization may intensify. While some of these problems are already evident w
+ ith digital platforms\, AI may have distinctively different\, and overall 
+ more adverse\, impacts.
+LAST-MODIFIED:20251021T060951Z
+LOCATION:HS 6\, 1st floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Microeconomics - Benjamin Boesch 
+DTSTART:20251015T094500Z
+DTEND:20251015T110000Z
+DTSTAMP:20251202T212448Z
+UID:3bc6kvgdt8rr7hd96c8e24i5lk@google.com
+SEQUENCE:0
+CREATED:20250922T074109Z
+DESCRIPTION:<b><u>Speaker:</u></b> Benjamin Boesch<br><br><b><u>Title:</u>
+ </b> "Cost Uncertainty in the Austrian Retail Gasoline Market"
+LAST-MODIFIED:20251006T112850Z
+LOCATION:OMDS-Seminarroom\, 3rd floor 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Microeconomics - Chris Höhne 
+DTSTART:20251008T094500Z
+DTEND:20251008T110000Z
+DTSTAMP:20251202T212448Z
+UID:53fvgv0lt2h5cf68k900o90ble@google.com
+SEQUENCE:0
+CREATED:20250922T073816Z
+DESCRIPTION:<b><u>Speaker:</u></b> Chris Höhne<br><br><b><u>Title</u></b
+ >: "Double-Edged Ballot: Affective Polarization Around the 2024 US Preside
+ ntial Election"<br><br><b><u>Abstract:</u></b><br>Public concern about ris
+ ing polarization in the United States conflicts with evidence suggesting t
+ hat it has plateaued in recent years. We show that this paradox arises bec
+ ause polarization in behavior diverges from stated polarization by conduct
+ ing a three-wave online experiment around the 2024 presidential election. 
+ We use incentivized trust and cooperation games to capture behavioral pola
+ rization\, and compare it with stated polarization from survey metrics inc
+ luding the standard thermometer gap. Behavioral polarization increases sha
+ rply around the election\, while the standard thermometer gap remains unch
+ anged. The effect is exclusively driven by an increase in swing states. De
+ mocrats show higher hostility than Republicans across all metrics\, yet ch
+ anges in behavior are uncorrelated with stated animosity\, underscoring th
+ e divergence between metrics. <br>Our findings show that the thermometer 
+ metric misses critical trends evident in actual behavior – polarization 
+ is intensifying rather than plateauing in the U.S.
+LAST-MODIFIED:20251006T124626Z
+LOCATION:OMDS-Seminarroom\, 3rd floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Microeconomics - Pello Aspuru
+DTSTART:20251119T104500Z
+DTEND:20251119T121500Z
+DTSTAMP:20251202T212448Z
+UID:3thn17mg7uopu32uct18dksmom@google.com
+SEQUENCE:0
+CREATED:20250922T074547Z
+DESCRIPTION:<b><u>Speaker:</u></b> Pello Aspuru<br><br><b><u>Title: </u><
+ /b>"Ballot Measures\, Political Advertising\, and Contribution Caps"
+LAST-MODIFIED:20251114T134140Z
+LOCATION:OMDS-Seminarroom\, 3rd floor 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Microeconomics - Evgenyi Zalyubovski
+DTSTART:20251001T094500Z
+DTEND:20251001T110000Z
+DTSTAMP:20251202T212448Z
+UID:306n4mavjmtiac1vqt6t7qes1b@google.com
+SEQUENCE:0
+CREATED:20250922T073937Z
+DESCRIPTION:<b><u>Speaker:</u></b> Evgenyi Zalyubovski<br><br><b><u>Title:
+ </u></b> “Linkage principle\, allocation effect\, and resale”.
+LAST-MODIFIED:20250929T123301Z
+LOCATION:OMDS-Seminarroom\, 3rd floor
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Microeconomics - Moritz Schwarz
+DTSTART:20251112T104500Z
+DTEND:20251112T120000Z
+DTSTAMP:20251202T212448Z
+UID:7913p5onkpjen3kfl78ics7gv4@google.com
+SEQUENCE:0
+CREATED:20250922T074446Z
+DESCRIPTION:<b><u>Speaker:</u></b> Moritz Schwarz<br><br><b><u>Title:</u>
+ </b> Consumer Inertia in the Market for Mobile Telephony
+LAST-MODIFIED:20251111T131250Z
+LOCATION:OMDS-Seminarroom\, 3rd floor 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Seminar in Microeconomics - Yimeng Zhang 
+DTSTART:20251029T104500Z
+DTEND:20251029T120000Z
+DTSTAMP:20251202T212448Z
+UID:2dqken1en7s3i95na93a1e6bri@google.com
+SEQUENCE:0
+CREATED:20250922T074318Z
+DESCRIPTION:<b><u>Speaker:</u></b> Yimeng Zhang<br><br><b><u>Title:</u></b
+ > "Complete Contracts under Incomplete Information"<br><br><b><u>Abstract:
+  </u></b><br>We study a moral hazard model in which the output is stochas
+ tically determined by both the agent’s hidden effort and an uncertain st
+ ate of the world. We investigate how the contractibility of the ex-post re
+ alization of the state affects the principal’s incentive to provide info
+ rmation. While detailed information allows the principal to better tailor 
+ the effort levels to the revealed states\, coarser information enables the
+  principal to base payments on the ex-post realization of states\, thereby
+  designing incentive schemes more effectively. Our main result establishes
+  that when the state is contractible\, full information is never optimal\;
+  however\, when the state is not contractible\, under certain conditions\,
+  full information is optimal.
+LAST-MODIFIED:20251024T103826Z
+LOCATION:OMDS-Seminarroom\, 3rd floor 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

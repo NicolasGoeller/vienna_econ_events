@@ -1,9 +1,9 @@
 all: ics scrape
 
 # Run the shell script
-ics:
-	@echo "Curling ICS calendars..."
-	@./scripts/get-ics.sh
+#ics:
+#	@echo "Curling ICS calendars..."
+#	@./scripts/get-ics.sh
 
 # Run the Python script
 scrape:

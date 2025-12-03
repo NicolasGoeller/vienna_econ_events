@@ -1,0 +1,438 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:The Vienna Joint Economics Seminar is a general interest semi
+ nar and is usually held on Thursdays. 
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar - Andrea Weber - CEU 
+DTSTART:20251113T121500Z
+DTEND:20251113T134500Z
+DTSTAMP:20251202T212445Z
+UID:74danvp1o16qd6h5h0qa0qsn4l@google.com
+SEQUENCE:0
+CREATED:20250718T070926Z
+DESCRIPTION:<b>Speaker:</b> Andrea Weber<br><br><b>Title: </b>What are the
+  Returns to Migration? Evidence from Linked Austrian – German Register D
+ ata<br><br><b>Abstract: </b><br>Free mobility of labor within the Europea
+ n Union increases labor market opportunities for workers. What is the valu
+ e of increasing workers’ outside options? We exploit novel linked admini
+ strative registers from Germany and Austria which allow us to follow indiv
+ idual careers across the border. We use former coworkers of migrants to es
+ timate counterfactual outcomes. Our results show that migrants experience 
+ idiosyncratic negative shocks prior to migration. But they move to higher 
+ earnings trajectories after migration. Compared to coworkers migrants from
+  Austria to Germany persistently earnings rise persistently by about 15%. 
+ We find similar patterns\, but smaller earnings gains from migration withi
+ n Austria.<br><br><b>Webpage:</b> <a href="https://sites.google.com/site/
+ andreaweberkirchweger/" target="_blank">https://sites.google.com/site/andr
+ eaweberkirchweger/</a>
+LAST-MODIFIED:20251110T101428Z
+LOCATION:HS 9\, 1. Stock 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar - Joachim Hubmer - University of Pennsylvania
+DTSTART:20251218T121500Z
+DTEND:20251218T134500Z
+DTSTAMP:20251202T212445Z
+UID:37j8r9mthr95984cgcv9sa3j3h@google.com
+SEQUENCE:0
+CREATED:20250718T071958Z
+DESCRIPTION:<b><u>Speaker:</u></b> Joachim Hubmer<br><br><b><u>Webpage:</u
+ ></b> <a href="https://sites.google.com/site/joachimhubmer">https://sites
+ .google.com/site/joachimhubmer</a>
+LAST-MODIFIED:20251126T102651Z
+LOCATION:HS 2\, Erdgeschoß 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar - Tomohiro Hirano  - Royal Holloway\, University of Lo
+ ndon
+DTSTART:20251127T121500Z
+DTEND:20251127T134500Z
+DTSTAMP:20251202T212445Z
+UID:3br2bg9dfl9anh9np6mplsketa@google.com
+SEQUENCE:0
+CREATED:20250718T071306Z
+DESCRIPTION:<b><u>Speaker:</u></b> Tomohiro Hirano<br><br><b><u>Title: </
+ u></b>Credit\, Land Speculation\, and Low-Interest-Rate Policy<br><br><b><
+ u>Abstract: </u></b><br>This paper analyses the impact of credit expansio
+ ns arising from increases in collateral values or lower interest rate poli
+ cies on long-term productivity and economic growth. We show that credit ex
+ pansions associated with relaxation of real estate financing (capital inve
+ stment financing) will be productivity-and growth-retarding (enhancing). W
+ ithout financial regulation\, expansionary monetary policy may so encourag
+ e land speculation using leverage that productive capital investment is de
+ creased\, leading to low interest rates and slow economic growth\, while g
+ enerating temporary asset booms. Its welfare impact differs markedly depen
+ ding on the generation that experienced the asset price boom and the subse
+ quent generations with low growth.<br><b><u><br></u></b><b><u>Webpage:</u>
+ </b> <a href="https://sites.google.com/site/tomohih/" target="_blank">htt
+ ps://sites.google.com/site/tomohih/</a>
+LAST-MODIFIED:20251118T111814Z
+LOCATION:HS 9\, 1. Stock 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar - Ralf Martin - CEPR 
+DTSTART:20251106T121500Z
+DTEND:20251106T134500Z
+DTSTAMP:20251202T212445Z
+UID:1vkm5errh9ti7vtu5ufgu2lvbo@google.com
+SEQUENCE:0
+CREATED:20250718T070628Z
+DESCRIPTION:<b><u>Speaker:</u></b> Ralf Martin<br><br><b><u>Title:</u></b>
+  <a href="https://www.ifc.org/en/insights-reports/2025/innovation-in-gree
+ n-technologies" target="_blank">Innovationin Green Technologies</a>: An op
+ portunity for business in low and medium income countries?<br><b><u><br></
+ u></b><b><u>Abstract: </u></b><br>Emerging market economies are claiming 
+ a rising share of trade in products associated with the new technologies t
+ hat help reduce pollution\, limit greenhouse gas emissions\, and help miti
+ gate the impact of extreme weather.<br><p>Indeed\, technological advances 
+ and falling costs in areas such as renewable energy\, are helping developi
+ ng economies close in on high-income countries’ dominance of the sector\
+ , new research from IFC shows. To continue to capitalize on opportunities 
+ in this area\, low- and middle-income countries will need the help of soun
+ d policy making and increased investment in research\, presenting a key op
+ portunity to international investors. </p><b><u>Webpage: </u></b><a href
+ ="https://cepr.org/about/people/ralf-martin" target="_blank">https://cepr.
+ org/about/people/ralf-martin</a>
+LAST-MODIFIED:20251017T084610Z
+LOCATION:HS 9\, 1. Stock 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar - Morgane Richard  - SIEPR
+DTSTART:20251204T121500Z
+DTEND:20251204T134500Z
+DTSTAMP:20251202T212445Z
+UID:14s5dst5jl6f3n3q70rr6hr3m7@google.com
+SEQUENCE:0
+CREATED:20250718T071516Z
+DESCRIPTION:<b><u>Speaker:</u></b> Morgane Richard <br><br><b><u>Title: 
+ </u></b>"The Spatial and Distributive Implications of Working-from-Home: A
+  General Equilibrium Model"<br><br><b><u>Abstract:</u></b><br>I study the 
+ impact of the recent rise in remote work on households’ consumption\, we
+ alth and housing decisions\, examining both short-runand longrun effects. 
+ Using detailed UK property-level housing data and a heterogeneous agent mo
+ del with endogenous housing tenure and city geography\, I show that remote
+  work shifts households’ housing demand by increasing the demand for spa
+ ce and reducing the commuting costs. It affects where people live in the c
+ ity and their housing wealth accumulation. The effects vary by access to r
+ emote work\, income\, and wealth. The rise in work-from-home can be compar
+ ed to a suburb-wide gentrification shock as wealthy telecommuters opt for 
+ larger suburban homes\, displacing marginal owners who turn to renting. In
+  the long-run\, work-from-home leads to the rise of a tele-premium. The ho
+ using market acts as the bridge through which the effects of work-from-hom
+ e spill over to workers who cannot telecommute.<br><br><b><u>Webpage:</u><
+ /b> <a href="https://siepr.stanford.edu/people/morgane-richard" target="_
+ blank">https://siepr.stanford.edu/people/morgane-richard</a>
+LAST-MODIFIED:20250922T064948Z
+LOCATION:HS 9\, 1. Stock 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar: Ying Fan 
+DTSTART:20260416T111500Z
+DTEND:20260416T124500Z
+DTSTAMP:20251202T212445Z
+UID:7le2s2l0bao0piugcpq9fu34a0@google.com
+SEQUENCE:0
+CREATED:20251117T111627Z
+DESCRIPTION:<b><u>Speaker: </u></b>Ying Fan <br><br><b><u>Webpage:</u></b
+ > <a href="https://websites.umich.edu/~yingfan/">https://websites.umich.e
+ du/~yingfan/</a>
+LAST-MODIFIED:20251117T111627Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar: Nicholas Kozeniauskas
+DTSTART:20260423T111500Z
+DTEND:20260423T124500Z
+DTSTAMP:20251202T212445Z
+UID:387btq17h426103vkutp2d5kh4@google.com
+SEQUENCE:0
+CREATED:20251117T111717Z
+DESCRIPTION:<b><u>Speaker: </u></b>Nicholas Kozeniauskas<br><br><b><u>Web
+ page:</u></b> <a href="https://nicjkoz.com/">https://nicjkoz.com/</a>
+LAST-MODIFIED:20251117T111717Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar - Margit Reischer - Georgetown University
+DTSTART:20260625T111500Z
+DTEND:20260625T124500Z
+DTSTAMP:20251202T212445Z
+UID:3sgrf7uelooh963ivnekugheq9@google.com
+SEQUENCE:0
+CREATED:20250718T072609Z
+DESCRIPTION:<b><u>Speaker: </u></b>Margit Reischer<br><b><u><br></u></b><b
+ r><b><u>Webpage:</u></b> <a href="https://margit-reischer.com/">https://m
+ argit-reischer.com/</a>
+LAST-MODIFIED:20250718T072610Z
+LOCATION:HS 9\, 1. Stock 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar - Nicolas Schutz - University of Mannheim
+DTSTART:20251120T121500Z
+DTEND:20251120T134500Z
+DTSTAMP:20251202T212445Z
+UID:5ghoet3lhn1re1uad4st4e2f8k@google.com
+SEQUENCE:0
+CREATED:20250718T071106Z
+DESCRIPTION:<b><u>Speaker: </u></b>Nicolas Schutz<br><br><b><u>Title: </u
+ ></b>"Oligopoly\, Complementarities\, and Transformed Potentials" (jointwi
+ th Volker Nocke).<br><br><b><u>Abstract:</u></b><br>We adopt a potential g
+ ames approach to study multiproduct-firm pricing games.<br>We introduce th
+ e new concept of transformed potential and characterize the classes<br>of 
+ demand systems that give rise to pricing games admitting such a potential.
+  The<br>resulting demand systems may contain nests (of closer substitutes)
+  or baskets (of products<br>that are purchased jointly)\, or combinations 
+ thereof. These demand systems allow<br>for flexible substitution patterns\
+ , and can feature product complementarities arising<br>from joint purchase
+ s and substitution away from the outside option. Combining the<br>potentia
+ l games approach with a competition-in-utility approach\, we derive powerf
+ ul<br>results on existence of pure-strategy Nash equilibria.<br><br><b><u>
+ Webpage:</u></b> <a href="https://www.vwl.uni-mannheim.de/schutz/" target
+ ="_blank">https://www.vwl.uni-mannheim.de/schutz/</a>
+LAST-MODIFIED:20251112T132145Z
+LOCATION:HS 9\, 1. Stock 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar: Kristof Madarasz - LSE
+DTSTART:20260326T121500Z
+DTEND:20260326T134500Z
+DTSTAMP:20251202T212445Z
+UID:342vqldbl9416itqq9qu7hevi2@google.com
+SEQUENCE:0
+CREATED:20251017T113420Z
+DESCRIPTION:<b><u>Speaker: </u></b>Kristof Madarasz
+LAST-MODIFIED:20251017T113421Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar - Jan Eeckhout - UPF
+DTSTART:20260528T111500Z
+DTEND:20260528T124500Z
+DTSTAMP:20251202T212445Z
+UID:4j49k2hh6mhkuf6h5g7vu0is26@google.com
+SEQUENCE:0
+CREATED:20250718T072247Z
+DESCRIPTION:<b><u>Speaker: </u></b>Jan Eeckhout<br><br><b><u>Webpage: </u
+ ></b><a href="https://www.upf.edu/en/web/econ/macroeconomics-and-internati
+ onal-economics/-/asset_publisher/VT2fJxltb4Vb/content/eeckhout-jan/maximiz
+ ed">https://www.upf.edu/en/web/econ/macroeconomics-and-international-econo
+ mics/-/asset_publisher/VT2fJxltb4Vb/content/eeckhout-jan/maximized</a>
+LAST-MODIFIED:20250718T072247Z
+LOCATION:HS 9\, 1. Stock 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar - Nicolas de Roos - University of Liverpool
+DTSTART:20251023T111500Z
+DTEND:20251023T124500Z
+DTSTAMP:20251202T212445Z
+UID:1isfq4ti5kceb52lrngul7tj9e@google.com
+SEQUENCE:0
+CREATED:20250718T070427Z
+DESCRIPTION:<b><u>Speaker: </u></b>Nicolas de Roos<br><br><b><u>Title: </
+ u></b>"Negotiating Coordination: A Study in Retail Gasoline".<br><br><b><u
+ >Abstract:</u></b><br>This paper studies the role of market prices in coor
+ dinatingand renegotiating market outcomes absent direct communication. We 
+ examine a gradual\, sometimes disruptive\, equilibrium transition with the
+ se characteristics using a unique dataset of daily and hourly station-leve
+ l prices from an urban gasoline market. Aided by an information-sharing pl
+ atform\, the firms transition over seven years from a coordinated pricing 
+ structure with focal pricing rules to another with price signaling. Along 
+ the path\, we observe recurrent deviations from focal pricing rules that e
+ ntail substantial price undercutting and business stealing without immedia
+ te punishment. We also uncover a price war involving renegotiation\, punis
+ hments\, and resolution strictly through prices. Lastly\, we document how\
+ , absent direct communication\, firms can actively evolve a pricing struct
+ ure to limit rivals’ deviation and undercutting incentives to enable lon
+ g-lasting price-enhancing coordination. Overall\, our findings establish t
+ hat prices can yield a sufficiently rich communication medium for implemen
+ ting and renegotiating collusive pricingstructures\, yet involve firms nee
+ ding to overcome significant strategic uncertainty in doing so. We discuss
+  implications for theories of collusion in economics and policies for dete
+ cting and prosecuting cartels.<br><br><b><u>Webpage: </u></b><a href="htt
+ ps://nicderoos.com/" target="_blank">https://nicderoos.com/</a>
+LAST-MODIFIED:20250919T123159Z
+LOCATION:HS 9\, 1. Stock 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar: Jiangtao Li - SMU
+DTSTART:20260430T114500Z
+DTEND:20260430T124500Z
+DTSTAMP:20251202T212445Z
+UID:1vcfu13d5beune8603nrltmuer@google.com
+SEQUENCE:0
+CREATED:20251030T141005Z
+DESCRIPTION:<b><u>Speaker:</u></b> Jiangtao Li<br><br><b><u>Webpage:</u><
+ /b> <a href="https://jiangtaoli.weebly.com/">https://jiangtaoli.weebly.co
+ m/</a>
+LAST-MODIFIED:20251030T141005Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar - Elisa Giannone - CREI 
+DTSTART:20251002T111500Z
+DTEND:20251002T124500Z
+DTSTAMP:20251202T212445Z
+UID:665c6gvndcp2rojr6516lbrqt3@google.com
+SEQUENCE:0
+CREATED:20250718T065045Z
+DESCRIPTION:<b><u>Speaker: </u></b>Elisa Giannone<br><br><b><u>Title: </u>
+ </b>UNPACKING MOVING - A Quantitative Spatial Equilibrium Model with Wealt
+ h. <br><br><b><u>Abstract:</u></b><br>We argue that incomplete markets an
+ d income risk explain a large fraction of moving rates\, espe-<br>cially f
+ or low-wealth individuals. We reach this conclusion by developing a quanti
+ tative dynamic spatial equilibrium model with endogenous wealth accumulate
+ d through liquid and illiquid assets (homeownership) under income risk and
+  incomplete markets. Given the rich individual and spatial heterogeneity\,
+  our model is well-suited to compare people- to place-based policies aimed
+  at reducing inequality. Do moving vouchers (people-based) or reduction in
+  housing regulations (place-based) enhance welfare relatively more for the
+  poor? Moving vouchers only marginally increase the welfareof eligible hou
+ seholds\, and those who receive the vouchers tend to move to locations wit
+ h lower house prices and wages.<br>In contrast\, lower housing regulations
+  in Vancouver can substantially decrease the welfare gap between the rich 
+ and poor nationwide. As this policy increases housing affordability in mor
+ e productive cities\, it reduces the incentive for low-wealth families to 
+ move precautionarily to low housing costs locations.<br>Lower housing cost
+ s increases the insurance value of high-income cities and allows for highe
+ r wealth accumulation through homeownership for poorer households.<br><br>
+ <b><u>Webpage:</u></b> <a href="https://sites.google.com/view/elisagianno
+ ne/" target="_blank">https://sites.google.com/view/elisagiannone/</a>
+LAST-MODIFIED:20250922T130420Z
+LOCATION:Hörsaal 9\, 1. Stock 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar: Felix Bierbrauer - Uni Köln 
+DTSTART:20260319T124500Z
+DTEND:20260319T134500Z
+DTSTAMP:20251202T212445Z
+UID:3u0ovs1o63rho07jievbhe971v@google.com
+SEQUENCE:0
+CREATED:20251030T140840Z
+DESCRIPTION:<b><u>Speaker:</u></b> Felix Bierbrauer<br><br><b><u>Webpage:
+  </u></b><a href="mailto:bierbrauer@wiso.uni-koeln.de">bierbrauer@wiso.un
+ i-koeln.de</a>
+LAST-MODIFIED:20251030T140856Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar - Benjamin Moll - LSE
+DTSTART:20260611T111500Z
+DTEND:20260611T124500Z
+DTSTAMP:20251202T212445Z
+UID:0athankbr588r1vfliep4opdlh@google.com
+SEQUENCE:0
+CREATED:20250718T072430Z
+DESCRIPTION:<b><u>Speaker:</u></b> Benjamin Moll<br><br><b><u>Webpage: </
+ u></b><a href="https://benjaminmoll.com/">https://benjaminmoll.com/</a>
+LAST-MODIFIED:20250718T072430Z
+LOCATION:HS 9\, 1. Stock 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar - Gautam Gowrisankaran - Columbia University
+DTSTART:20260507T111500Z
+DTEND:20260507T124500Z
+DTSTAMP:20251202T212445Z
+UID:48f9parp8sasn3i98tas6sjtuq@google.com
+SEQUENCE:0
+CREATED:20250718T073623Z
+DESCRIPTION:<b><u>Speaker: </u></b>Gautam Gowrisankaran<br><br><b><u>Webp
+ age:</u></b> <a href="https://www.gautamgowrisankaran.com/home">https://w
+ ww.gautamgowrisankaran.com/home</a>
+LAST-MODIFIED:20250718T073623Z
+LOCATION:HS 9\, 1. Stock 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar: Antonio Rosato 
+DTSTART:20260521T111500Z
+DTEND:20260521T124500Z
+DTSTAMP:20251202T212445Z
+UID:0m30g62s7fksevcto0kt63sqih@google.com
+SEQUENCE:0
+CREATED:20251124T140904Z
+DESCRIPTION:<b><u>Speaker:</u></b> Antonio Rosato<br><br><b><u>Webpage:</u
+ ></b> <a href="mailto:a.rosato@uq.edu.au">a.rosato@uq.edu.au</a>
+LAST-MODIFIED:20251124T140904Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar: Barton Lee - ETHZ
+DTSTART:20260618T114500Z
+DTEND:20260618T124500Z
+DTSTAMP:20251202T212445Z
+UID:425dffjdp7150dutngo5r2djmf@google.com
+SEQUENCE:0
+CREATED:20251030T141048Z
+DESCRIPTION:<b><u>Speaker:</u></b> Barton Lee<br><br><b><u>Webpage:</u></b
+ > <a href="https://sites.google.com/view/bartonelee/">https://sites.googl
+ e.com/view/bartonelee/</a>
+LAST-MODIFIED:20251030T141048Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar - Dorothea Kübler - WZB
+DTSTART:20260305T121500Z
+DTEND:20260305T134500Z
+DTSTAMP:20251202T212445Z
+UID:10l1fop7nk3i5tk4p085emh8jh@google.com
+SEQUENCE:0
+CREATED:20250718T073450Z
+DESCRIPTION:<b><u>Speaker:</u></b> Dorothea Kübler<br><br><b><u>Webpage:<
+ /u></b> <a href="https://www.wzb.eu/de/personen/dorothea-kuebler">Prof. D
+ r. Dorothea Kübler | WZB</a>
+LAST-MODIFIED:20250718T073450Z
+LOCATION:HS 9\, 1. Stock 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VJE-Seminar - Marcelo Zouain Pedroni - University of Amsterdam
+DTSTART:20251211T121500Z
+DTEND:20251211T134500Z
+DTSTAMP:20251202T212445Z
+UID:5n68ujksjqr9a7eece861286n9@google.com
+SEQUENCE:0
+CREATED:20250718T071816Z
+DESCRIPTION:<b><u>Speaker:</u></b> Marcelo Zouain Pedroni<br><br><b><u>We
+ bpage: </u></b><a href="https://sites.google.com/site/marcelozouainpedron
+ i/">https://sites.google.com/site/marcelozouainpedroni/</a>
+LAST-MODIFIED:20250718T071817Z
+LOCATION:HS 9\, 1. Stock 
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

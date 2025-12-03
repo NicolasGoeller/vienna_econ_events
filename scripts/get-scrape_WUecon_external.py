@@ -6,16 +6,22 @@ from icalendar import Calendar, Event
 import pytz
 import re
 
-URL = "https://www.wu.ac.at/en/economics/research/economics-research-seminar"
+### Issues to fix
+# - Inconsistent Whitespace in Description
+# - Inconsistent location indicators - create proper adresses - this is highly optional
+
+URL_dict = {"wu_econext": "https://www.wu.ac.at/en/economics/research/economics-research-seminar",
+            "wu_econint": "https://www.wu.ac.at/en/economics/research/internal-economic-research-seminar"}
 TIMEZONE = "Europe/Vienna"
 
 
 def fetch_page_html(url):
+    # Extract html from indicated url
     scraper = cloudscraper.create_scraper()
     return scraper.get(url).text
 
 
-def parse_events(html):
+def parse_extevents(html):
     soup = BeautifulSoup(html, "html.parser")
 
     # Main content block where seminars are listed
@@ -67,13 +73,62 @@ def parse_events(html):
         events.append({
             "date": date,
             "time": time,
-            "room": room,
-            "speaker": speaker,
-            "affiliation": affiliation,
+            "room": room.replace("\xa0", " "),
+            "speaker": speaker.replace("\xa0", " "),
+            "affiliation": affiliation.replace("\xa0", " "),
             "title": title
         })
 
     return events
+
+
+def parse_intevents(html):
+    soup = BeautifulSoup(html, "html.parser")
+
+    # Main content block where seminars are listed
+    content = soup.find("table", class_="md-table-resp table-resp")
+    if content is None:
+        raise ValueError("Cannot find seminar content block on page")
+
+    events = []
+
+    # Each seminar is in a <tr> inside a table
+    rows = content.find_all("tr")
+    
+    for row in rows:
+        cols = row.find_all("td")
+        if len(cols) != 2:
+            continue  # skip malformed rows
+
+        left = cols[0]
+        right = cols[1]
+
+        date = left.find("strong").get_text(strip=True)
+
+        lines = left.get_text("\n", strip=True).split("\n")
+        if len(lines) < 3:
+            continue
+
+        time = lines[1]
+        room = lines[2]
+
+        text_lines = right.get_text("\n", strip=True).split("\n")
+        if len(text_lines) == 2:
+            speaker = text_lines[0]
+            title = text_lines[1]
+        else:
+            speaker = text_lines[0] + "; " + text_lines[2]
+            title = text_lines[1] + "; " + text_lines[3]
+
+        events.append({
+            "date": date,
+            "time": time,
+            "room": room.replace("\xa0", " "),
+            "speaker": speaker.replace("\xa0", " "),
+            "title": title
+        })
+
+    return(events)
 
 
 def parse_datetime(date_str, time_range_str):
@@ -106,7 +161,7 @@ def parse_datetime(date_str, time_range_str):
     return dt_start, dt_end
 
 
-def build_ics(events, filename="../public/ics/wu_econext_seminars.ics"):
+def build_ics(events, filename):
     
     cal = Calendar()
     cal.add("prodid", "-//WU Economics Research Seminar Calendar//")
@@ -124,7 +179,9 @@ def build_ics(events, filename="../public/ics/wu_econext_seminars.ics"):
                   f"Speaker: {ev['speaker']}\nAffiliation: {ev['affiliation']}\nTitle: {ev['title']}")
         cal.add_component(event)
 
-    if len(cal.subcomponents) == 0:
+    event_count = sum(1 for component in cal.walk("VEVENT"))
+    
+    if event_count == 0:
         print("No events found, file not created")
     else:
         with open(filename, "wb") as f: f.write(cal.to_ical())
@@ -133,10 +190,18 @@ def build_ics(events, filename="../public/ics/wu_econext_seminars.ics"):
 
 
 def main():
-    html = fetch_page_html(URL)
-    events = parse_events(html)
-    print(f"Found {len(events)} seminars")
-    build_ics(events)
+    for URL_name in URL_dict.keys():
+        print(f"Accessing {URL_name} ...")
+        html = fetch_page_html(URL_dict[URL_name])
+        if URL_name == "wu_econext":
+            events = parse_extevents(html)
+        elif URL_name == "wu_econint":
+            events = parse_intevents(html)
+        else: 
+            continue
+        print(f"Found {len(events)} seminars")
+        wu_file = f"../public/ics/{URL_name}_seminars.ics"
+        build_ics(events, filename=wu_file)
 
 
 if __name__ == "__main__":
