@@ -50,7 +50,7 @@ export default function AboutSection({ type = 'full' }) {
         <div>
           <h2 className="text-2xl font-bold text-gray-800 mb-3">About</h2>
           <p className="text-gray-700 leading-relaxed">
-            This website aggregates economics-related seminars and events in and near Melbourne, Australia (all broadly defined) with the goal of facilitating discovery and exchange across institutions.
+            This website aggregates economics-related seminars and events in and near Vienna, Austria (all broadly defined) with the goal of facilitating discovery and exchange across institutions.
           </p>
         </div>
 
@@ -93,12 +93,12 @@ export default function AboutSection({ type = 'full' }) {
                   Visit the repository to submit issues, pull requests, or browse the source code:
                 </p>
                 <a
-                  href="https://github.com/nk027/melbourne_econ"
+                  href="https://github.com/NicolasGoeller/vienna_econ_events"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:underline text-sm font-medium"
                 >
-                  github.com/nk027/melbourne_econ
+                  github.com/NicolasGoeller/vienna_econ_events
                 </a>
               </div>
             </div>
@@ -111,10 +111,28 @@ export default function AboutSection({ type = 'full' }) {
                   For questions, suggestions, or feedback, please reach out to:
                 </p>
                 <a
-                  href="mailto:nikolas.kuschnig@monash.edu"
+                  href="mailto:nicolas.goeller@wu.ac.at"
                   className="text-blue-600 hover:underline text-sm font-medium"
                 >
-                  nikolas.kuschnig@monash.edu
+                  nicolas.goeller@wu.ac.at
+                </a>
+              </div>
+            </div>
+
+            <div className="flex items-start gap-2 bg-gray-50 rounded-lg p-3">
+              <Mail className="w-5 h-5 mt-0.5 text-gray-600" />
+              <div>
+                <p className="font-medium text-gray-800">Contact</p>
+                <p className="text-sm text-gray-600 mt-1">
+                  Or via Github-Issues.
+                </p>
+                <a
+                  href="https://github.com/NicolasGoeller/vienna_econ_events/issues"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-600 hover:underline text-sm font-medium"
+                >
+                  Open an issue
                 </a>
               </div>
             </div>
